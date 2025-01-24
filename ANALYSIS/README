@@ -1,3 +1,20 @@
+Contents
+* Python Scripts
+- 0_data_fort-to-panda.ipynb (generates parquet dataframe nuc_fort-to-panda_combined.parquet)
+- 0_data_fort-to-panda.py 
+- 1_plot_spatial-heatmap.ipynb 
+- 2_data_mole-fraction.ipynb (generates parquet dataframe nuc_analysis_mole-fraction_combined.parquet)
+- 3_plot_growth_mole-fraction_sphericity.ipynb
+- 4_plot_radial-layers.ipynb 
+- 5_data_fragmentation.ipynb (generates csv dataframe fragmentation_BUT_MET_mol1/2.csv)
+- 6_plot_fragmentation.ipynb
+
+* Dataframe Files
+- nuc_fort-to-panda_combined.parquet
+- nuc_analysis_mole-fraction_combined.parquet
+- fragmentation_BUT_MET_mol1.csv
+- fragmentation_BUT_MET_mol2.csv
+
 unzip 7z files 
 $ 7z x frag.7z
 $ 7z x fort.7z
