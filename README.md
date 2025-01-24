@@ -40,13 +40,28 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
 ## Simulation Analysis
 [[back to contents](#contents)]
 
-![fig_sphericity_combined_BUT_MET](https://github.com/user-attachments/assets/cc44fd12-3eba-48da-b2d3-962182e9067a)
 
-![fig_mole_fraction_combined_BUT_MET](https://github.com/user-attachments/assets/deb42273-35c2-4161-9a72-ad9aae5d8a8c)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
+</p>
 
-![mole_fraction_time_radial_heatmap_filtered_BUT_MET](https://github.com/user-attachments/assets/3396d829-128c-461d-8096-7d1633568b61)
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. Time evolution of cluster size and sphericity distribution in `wm`. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes \(10^1 < n \leq 10^2\), \(10^2 < n \leq 10^3\), and \(10^3 < n \leq 10^4\).
+</p>
 
-![combined_plot_BUT_MET](https://github.com/user-attachments/assets/ea952f39-5ec7-4d85-a016-f409dff5193f)
+![fig_mole_fraction_combined_NON_BUT](https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5)
+
+![fig_heatmap_radial_time_NON_BUT](https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2)
+
+![fig_heatmap_radial_time_SOL_BUT](https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e)
+
+![fig_fragmentation_SOL_BUT_mol1](https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a)
+
+![fig_fragmentation_SOL_BUT_mol1](https://github.com/user-attachments/assets/1731b2f7-c60a-467f-86f8-0737c0bdd194)
+
+![fig_fragmentation_NON_BUT_mol1](https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7)
+
+![fig_fragmentation_NON_BUT_mol2](https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392)
 
 
 
