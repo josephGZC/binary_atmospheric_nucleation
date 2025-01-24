@@ -62,7 +62,7 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
 </p>
 
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 1</strong>. Heatmap showing mole fraction ((X<sub>nonane</sub>) across radial layers of the largest cluster over time in _nb_, with lower-value radial layers near the core and higher-value layers near the surface..
+    <strong>Figure 1</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in *nb*, with lower-value radial layers near the core and higher-value layers near the surface..
 </p>
 
 
