@@ -1,0 +1,3 @@
+unzip 7z files 
+$ 7z x frag.7z
+$ 7z x fort.7z
