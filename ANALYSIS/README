@@ -25,4 +25,10 @@ unzip 7z files
 $ 7z x frag.7z
 $ 7z x fort.7z
 
+* fort-relevant (files needed to create fort data files)
+- ANALYSIS_EXAMINE.sh
+- fort.10
+- cluster_nm.f
+
+
 
