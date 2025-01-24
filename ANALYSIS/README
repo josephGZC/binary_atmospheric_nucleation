@@ -17,6 +17,12 @@
 - fragmentation_BUT_MET_mol1.csv
 - fragmentation_BUT_MET_mol2.csv
 
+* 7z Files
+fort.7z (needed to create nuc_fort-to-panda_combined.parquet)
+frag.7z (needed to create fragmentation_BUT_MET_mol1/2.csv)
+
 unzip 7z files 
 $ 7z x frag.7z
 $ 7z x fort.7z
+
+
