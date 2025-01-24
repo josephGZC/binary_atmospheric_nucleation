@@ -1,9 +1,9 @@
 ===================
-Contents 
+📃 Contents 
 ===================
 
 ------------------
-Python Scripts
+🐍 Python Scripts
 ------------------
 - 0_data_fort-to-panda.ipynb (generates parquet dataframe nuc_fort-to-panda_combined.parquet)
 - 0_data_fort-to-panda.py 
@@ -15,7 +15,7 @@ Python Scripts
 - 6_plot_fragmentation.ipynb
 
 ------------------
-Dataframe Files
+🧱 Dataframe Files
 ------------------
 - nuc_fort-to-panda_combined.parquet
 - nuc_analysis_mole-fraction_combined.parquet
@@ -23,7 +23,7 @@ Dataframe Files
 - fragmentation_BUT_MET_mol2.csv
 
 ------------------
-7z Files
+🏦 7z Files
 ------------------
 fort.7z (needed to create nuc_fort-to-panda_combined.parquet)
 frag.7z (needed to create fragmentation_BUT_MET_mol1/2.csv)
@@ -33,7 +33,7 @@ $ 7z x frag.7z
 $ 7z x fort.7z
 
 ------------------
-fort-relevant (files needed to create fort data files)
+🎞️ fort-relevant (files needed to create fort data files)
 ------------------
 - ANALYSIS_EXAMINE.sh
 - fort.10
