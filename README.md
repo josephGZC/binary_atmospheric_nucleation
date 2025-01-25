@@ -63,7 +63,9 @@ Each system, starting from binary mixtures that are in a vapor state, the molecu
     <strong>Figure 3</strong>. Snapshots of nonane/butanol system at (a) 0, (b) 10, and (c) 50 ns.
 </p
 
-Clusters formed as a result of temperature quenching and underwent dynamic processes of growth and decay. Over time, a distribution of clusters of varying sizes emerged, in which larger clusters comprise higher number of molecules. The generated clusters were analyzed based on their sphericity (Fig. 3, S1, S2) and mole fraction (Fig. 4, [[S3](https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400)], S4). For each property, the median values and their variability (spread) are visualized using boxplots. To facilitate a more convenient comparison, the clusters are categorized into three size ranges: small (10<sup>1</sup> to 10<sup>2</sup> molecules), intermediate (10<sup>2</sup> to 10<sup>3</sup> molecules), and large (10<sup>3</sup> to 10<sup>4</sup> molecules). 
+[Go to Figure 1](#custom-anchor)
+
+Clusters formed as a result of temperature quenching and underwent dynamic processes of growth and decay. Over time, a distribution of clusters of varying sizes emerged, in which larger clusters comprise higher number of molecules. The generated clusters were analyzed based on their sphericity (Fig. 3, S1, S2) and mole fraction (Fig. 4, [S3](#anchor-S1), S4). For each property, the median values and their variability (spread) are visualized using boxplots. To facilitate a more convenient comparison, the clusters are categorized into three size ranges: small (10<sup>1</sup> to 10<sup>2</sup> molecules), intermediate (10<sup>2</sup> to 10<sup>3</sup> molecules), and large (10<sup>3</sup> to 10<sup>4</sup> molecules). 
 
 For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9 (Fig.~\ref{fig:spher_nb}-\ref{fig:spher_sn}) with a median between 0.7 to 0.8. This suggests significant structure variability from a spherical configuration in the initial phase of droplet formation. In the case of larger-sized clusters, the median sphericity ranges from 0.8 to 1 across different systems, reflecting their stability in a spherical shape. These observations corroborate and expand upon the research by Tarek et al. (1997), which reported increased shape variability in smaller water-ethanol clusters \cite{tarek1997molecular}. Although $wn$ clusters are spherical on average, it exhibits a similar microarrangement to the clusters simulated by Obeidat et al. (2015), where they define a $wn$ droplet to have a lens-on-sphere structure \cite{obeidat2015scattering}. This model describes the $n$-nonane cluster as a lens shape that wets the spherical shape of the water cluster.
 
@@ -129,13 +131,36 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 [[back to contents](#contents)]
 
 ## Appendix
+<a name="anchor-S1"></a>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure S1</strong>. Time evolution of cluster size and sphericity distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
+</p>
 
-![fig_sphericity_combined_SOL_NON](https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400)
+<a name="anchor-S2"></a>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure S2</strong>. Time evolution of cluster size and sphericity distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
+</p>
 
-![fig_sphericity_combined_SOL_BUT](https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033)
+<a name="anchor-S3"></a>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
+</p>
 
-![fig_mole_fraction_combined_SOL_NON](https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1)
-
-![fig_mole_fraction_combined_SOL_BUT](https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6)
+<a name="anchor-S4"></a>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
+</p>
 
 
