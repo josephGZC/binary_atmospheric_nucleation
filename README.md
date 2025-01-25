@@ -77,13 +77,6 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
     <img width="60%" src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 1</strong>. Fragmentation of nonane within $nb$ clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
-</p>
-
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
-</p>
-<p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. Fragmentation of water within $wb$ clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
 </p>
 
