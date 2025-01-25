@@ -36,7 +36,7 @@ This study investigates nucleation and growth of six binary mixtures of atmosphe
     <img width="60%" src="https://github.com/user-attachments/assets/e971229e-bcdf-4251-bba9-9dcb9d32298e">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 1</strong>.Structure of (a) water, (b) nonane, and (c) 1-butanol.
+    <strong>Figure 1</strong>. Structure of (a) water, (b) nonane, and (c) 1-butanol, shown using stick models (top) and sphere models (bottom). Carbon (C), oxygen (O), and hydrogen (H) atoms are labeled. Some hydrogen atoms are grayed out to emphasize the carbon atoms, which are more relevant to the discussion of hydrophobic properties.
 </p>
       
 ## Simulation Setup
