@@ -42,8 +42,8 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
     <strong>Figure 1</strong>. Structure of (a) water, (b) nonane, and (c) 1-butanol, shown using stick models (top) and sphere models (bottom). Carbon (C), oxygen (O), and hydrogen (H) atoms are labeled. Some hydrogen atoms are grayed out to emphasize the carbon atoms, which are more relevant to the discussion of hydrophobic properties.
 </p>
 
-> Mole Fraction
-> * often represents by symbol X
+> ℹ️ Mole Fraction
+> * Often represents by symbol X
 >     * In a mixture, if X<sub>water</sub> = 1: only water is present
 >     * In a mixture, if X<sub>water</sub> = 0: no water is present
 >     * In a mixture, if 0.5 > X<sub>water</sub> > 1: majority of mixture is water
