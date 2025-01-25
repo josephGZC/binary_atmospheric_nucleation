@@ -33,7 +33,7 @@ Aerosol formation produces tiny particles that act as starting points for cloud 
 This study investigates nucleation and growth of three binary mixtures of atmospherically relevant gases: water, $n$-nonane, 1-butanol.  Representing hydrophilic, hydrophobic, and amphiphilic molecules, these systems are explored using MD simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation.
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/e971229e-bcdf-4251-bba9-9dcb9d32298e">
+    <img width="60%" src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e">
 </p>
 <p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. Structure of (a) water, (b) nonane, and (c) 1-butanol, shown using stick models (top) and sphere models (bottom). Carbon (C), oxygen (O), and hydrogen (H) atoms are labeled. Some hydrogen atoms are grayed out to emphasize the carbon atoms, which are more relevant to the discussion of hydrophobic properties.
@@ -43,6 +43,13 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 [[back to contents](#contents)]
 
 Six systems were prepared: nonane/1-butanol, water/1-butanol, and water/nonane. A cubic simulation box of 40 nm$^3$ was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/89b39247-b85e-432a-945a-dddec8be6320">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. Structure of (a) water, (b) nonane, and (c) 1-butanol, shown using stick models (top) and sphere models (bottom). Carbon (C), oxygen (O), and hydrogen (H) atoms are labeled. Some hydrogen atoms are grayed out to emphasize the carbon atoms, which are more relevant to the discussion of hydrophobic properties.
+</p>
 
 ## Simulation Analysis
 [[back to contents](#contents)]
