@@ -37,9 +37,7 @@ This study investigates nucleation and growth of six binary mixtures of atmosphe
 ## Simulation Setup
 [[back to contents](#contents)]
 
-Six systems were prepared, each containing a binary combination from the quaternary pool of water/$n$-nonane/1-butanol/methanol. The systems were abbreviated as $nb$, $wb$, $wn$, for $n$-nonane/1-butanol, water/1-butanol, and water/$n$-nonane, respectively.
-
-A cubic simulation box of 40 nm$^3$ was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
+Six systems were prepared: nonane/1-butanol, water/1-butanol, and water/nonane. A cubic simulation box of 40 nm$^3$ was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
 
 ## Simulation Analysis
 [[back to contents](#contents)]
