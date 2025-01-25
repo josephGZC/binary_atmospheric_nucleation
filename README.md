@@ -189,3 +189,9 @@ To get a better understanding of the cluster shape and composition, a look into 
     <strong>Figure S5</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/nonane, with lower-value radial layers near the core and higher-value layers near the surface.)
 </p>
 
+
+https://github.com/user-attachments/assets/e5001b82-71dc-437e-826a-9f5c0203d5a5
+
+
+
+
