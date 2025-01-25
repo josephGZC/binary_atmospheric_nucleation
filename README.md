@@ -45,7 +45,9 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
   <img src="https://github.com/user-attachments/assets/27db3b5a-e8fb-419b-9184-9a2f094d1365" alt="NON_BUT_10NS" width="30%">
   <img src="https://github.com/user-attachments/assets/925b4a3f-7470-4bcd-a8cc-7073e373ce92" alt="NON_BUT_20NS" width="30%">
 </div>
-
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. System snapshots of nonane-butanol system at 0, 25, and 50 ns.
+</p>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
