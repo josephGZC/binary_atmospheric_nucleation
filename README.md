@@ -57,13 +57,11 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 Each system, starting from binary mixtures that are in a vapor state, the molecules started to cluster together as temperature was raised in the simulation, onset of condensation, as shown in Figure 3. As the simulation progressed, nearly all molecule are clustered together.
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/e85b0b37-0349-4764-be1b-65091c65c168">
+    <img width="60%" src="https://github.com/user-attachments/assets/d5383489-7c82-4ad1-b36f-09f489eb6f49">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 3</strong>. Snapshots of system at (a) 0, (b) 10, and (c) 50 ns.
+    <strong>Figure 3</strong>. Snapshots of nonane/butanol system at (a) 0, (b) 10, and (c) 50 ns.
 </p
-
-
 
 Clusters formed as a result of temperature quenching and underwent dynamic processes of growth and decay. Over time, a distribution of clusters of varying sizes emerged, in which larger clusters comprise higher number of molecules. The generated clusters were analyzed based on their sphericity (Fig. 3, S1, S2) and mole fraction (Fig. 4, S3, S4). For each property, the median values and their variability (spread) are visualized using boxplots. To facilitate a more convenient comparison, the clusters are categorized into three size ranges: small (10<sup>1</sup> to 10<sup>2</sup> molecules), intermediate (10<sup>2</sup> to 10<sup>3</sup> molecules), and large (10<sup>3</sup> to 10<sup>4</sup> molecules). 
 
