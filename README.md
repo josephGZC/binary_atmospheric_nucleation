@@ -192,5 +192,6 @@ To get a better understanding of the cluster shape and composition, a look into 
 
 
 
-https://github.com/user-attachments/assets/7e8e8390-de4b-4b84-a560-f345ed4b409a
+https://github.com/user-attachments/assets/1c8655a1-e64f-4edd-a22f-f7d815077f75
+
 
