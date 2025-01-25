@@ -11,6 +11,7 @@ The following repository contains some of the jupyter lab python scripts I used 
 - [Simulation Setup](#simulation-setup)
 - [Simulation Analysis](#simulation-analysis)
 - [Conclusion](#conclusion)
+- [Appendix](#appendix)
 
 🐍 **Python Scripts**
 * [Generate Clusters Dataset](ANALYSIS/0_data_fort-to-panda.ipynb)
@@ -33,7 +34,7 @@ Aerosol formation produces tiny particles that act as starting points for cloud 
 ## Objectives
 [[back to contents](#contents)]
 
-This study investigates nucleation and growth of three binary mixtures of atmospherically relevant gases: water, nonane, 1-butanol. Representing hydrophilic, hydrophobic, and amphiphilic molecules, these systems are explored using MD simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation. Among the properties to be investigated are sphericity and mole fraction.
+This study investigates nucleation and growth of three binary mixtures of atmospherically relevant gases: water, nonane, 1-butanol. Representing hydrophilic, hydrophobic, and amphiphilic molecules, these systems are explored using molecular dynamics simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation. Among the properties to be investigated are sphericity and mole fraction.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e">
@@ -43,12 +44,12 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 </p>
 
 > ℹ️ **Sphericity**
-> * Often represents by symbol Φ
+> * Often represented by symbol Φ
 >     * If Φ = 1.0: perfect sphere
 >     * If Φ = 0.0: perfect cylinder
        
 > ℹ️ **Mole Fraction**
-> * Often represents by symbol X
+> * Often represented by symbol X
 >     * In a mixture, if X<sub>water</sub> = 1.0: only water is present
 >     * In a mixture, if X<sub>water</sub> = 0.0: no water is present
 >     * In a mixture, if X<sub>water</sub> = 0.5: equal amount of water and the other molecule of the mixture
@@ -217,12 +218,13 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 ## Conclusion
 [[back to contents](#contents)]
 
-A broad overview is first extracted from the clusters based on sphericity and mole fraction. In this stage of the analysis, clusters were found to be more spherical with increasing cluster size regardless of miscibility. While more miscible species had less mole fraction variability from an equimolar composition.
-Substructural features were also observed in terms of orientational ordering in each cluster. Diverse clustering structures of six binary combinations from the water/$n$-nonane/1-butanol/methanol quaternary pool were revealed using molecular dynamics. To summarize: $nb$ resulted in homogeneously-mixed clusters due to their minimal miscibility gap \cite{viisanen1998measurement}. Similarly, the $wm$ clusters were of homogeneous composition due to the miscibility between the components, with only slight enrichment in methanol at the surface and water in the interior. Meanwhile, $bm$ and $wb$ portrayed more distinct core-shell structures. Beyond mere enrichment, the core and shell regions of $nm$ were of pure composition. Finally, $wn$ assumed a lens-on-sphere configuration composed of a large central $n$-nonane cluster to which several smaller water clusters were adsorbed, without any observed mixing.
+A broad overview is first extracted from the clusters based on sphericity and mole fraction. In this stage of the analysis, clusters were found to be more spherical with increasing cluster size regardless of miscibility. While more miscible species had less mole fraction variability from an equimolar composition. Substructural features were also observed in terms of orientational ordering in each cluster. Diverse clustering structures of three binary combinations from the water/nonane/1-butanol pool were revealed using molecular dynamics. To summarize: nonane/1-butanol resulted in homogeneously-mixed clusters due to their minimal miscibility gap. Meanwhile, water/1-butanol portrayed more distinct core-shell structures. Finally, water/nonane assumed a lens-on-sphere configuration composed of a large central nonane cluster to which several smaller water clusters were adsorbed, without any observed mixing.
 
-From these findings, we observe that (a) highly miscible pairs ($wm$, $nb$) form homogeneously-mixed clusters, (b) partially miscible pairs, depending on the degree of miscibility gap, can form component-enriched regions ($bm$) or even completely segregated layers ($nm$) as a means to maximize favorable interactions \cite{tarek1997molecular,chen2003simulating}, and (c) completely immiscible pairs ($wn$) exhibit heterogeneous-like nucleation, wherein each component nucleates independently, and the first cluster serves as the substrate for the nucleation of the other \cite{wagner2001two}. In partially miscible pairs, network-like microstructures and fragmented pockets can occur within seemingly uniform clusters. Taken together, the findings in this work have a direct impact on nucleation calculations, as we have shown that binary mixtures exhibit microheterogeneity and non-sphericity, and thus do not necessarily obey the assumptions of CNT (spherical droplet and equimolar surface) \cite{vehkamaki2006classical}. Current theory has been shown to make nonphysical predictions \cite{laaksonen2001breakdown}, and the structural information that we have presented in this study should be considered in the development of future models.
+From these findings, we observe that (a) highly miscible pairs form homogeneously-mixed clusters, (b) partially miscible pairs can form component-enriched regions as a means to maximize favorable interactions, and (c) completely immiscible pairs exhibit heterogeneous-like nucleation, wherein each component nucleates independently, and the first cluster serves as the substrate for the nucleation of the other. In partially miscible pairs, network-like microstructures and fragmented pockets can occur within seemingly uniform clusters. Taken together, the findings in this work have a direct impact on nucleation calculations, as we have shown that binary mixtures exhibit microheterogeneity and non-sphericity, and thus do not necessarily obey classical theories. Current theory has been shown to make nonphysical predictions, and the structural information that we have presented in this study should be considered in the development of future models.
 
 ## Appendix
+[[back to contents](#contents)]
+
 <a name="anchor-S1"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
