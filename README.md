@@ -33,7 +33,7 @@ Aerosol formation produces tiny particles that act as starting points for cloud 
 ## Objectives
 [[back to contents](#contents)]
 
-This study investigates nucleation and growth of three binary mixtures of atmospherically relevant gases: water, nonane, 1-butanol.  Representing hydrophilic, hydrophobic, and amphiphilic molecules, these systems are explored using MD simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation.
+This study investigates nucleation and growth of three binary mixtures of atmospherically relevant gases: water, nonane, 1-butanol. Representing hydrophilic, hydrophobic, and amphiphilic molecules, these systems are explored using MD simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e">
@@ -41,7 +41,14 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 <p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. Structure of (a) water, (b) nonane, and (c) 1-butanol, shown using stick models (top) and sphere models (bottom). Carbon (C), oxygen (O), and hydrogen (H) atoms are labeled. Some hydrogen atoms are grayed out to emphasize the carbon atoms, which are more relevant to the discussion of hydrophobic properties.
 </p>
-      
+
+# > Mole Fraction
+# > often represents by symbol X
+# > In a mixture, if X<sub>water</sub> = 1: only water is present
+# > In a mixture, if X<sub>water</sub> = 0: no water is present
+# > In a mixture, if 0.5 > X<sub>water</sub> > 1: majority of mixture is water
+# > In a mixture, if 0 > X<sub>water</sub> > 0.5: majority of mixture is not water
+
 ## Simulation Setup
 [[back to contents](#contents)]
 
