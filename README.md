@@ -110,7 +110,7 @@ To get a better understanding of the cluster shape and composition, a look into 
     <img width="60%" src="https://github.com/user-attachments/assets/d812696a-f08b-4714-a174-06882a23b269">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 7</strong>. Snapshot of whole nonane/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and yellow spheres represent water and 1-butanol molecules, respectively.
+    <strong>Figure 7</strong>. Snapshot of whole nonane/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The green and yellow spheres represent nonane and 1-butanol molecules, respectively.
 </p>
 
 <a name="anchor-F8"></a>
