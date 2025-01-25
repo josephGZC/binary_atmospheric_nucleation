@@ -103,8 +103,6 @@ To get a better understanding of the cluster shape and composition, a look into 
 
 For the nonane/1-butanol system, majority of clusters were well mixed as most radial layers had mole fraction values close to 0.5, indicated by the grayish color in Fig. [6](#anchor-F6). This is in agreement with the visual inspection of the nuclei snapshots, where nonane (green spheres) and 1-butanol (yellow spheres) are evenly distributed in the cluster surface (Fig. [7a-c](#anchor-F7)) and the interior of the cluster (Fig. [7d-f](#anchor-F7)), indicating homogeneous mixing between the two nucleating species. Additionally, the observed mixing behavior further verifies that the reluctant co-nucleation reported for nonane and alcohol mixtures is minimized in nonane/1-butanol by the relatively long alkyl tail of 1-butanol. 
 
-Radial analysis of the water/1-butanol system reveals alternating regions of high water and 1-butanol concentration, indicated by the alternating bluish and reddish regions in the heatmap (Fig. [8](#anchor-F8)). The cluster snapshots clarify this observation as it shows that a simple core-shell structure is observed at the initial stages of nucleation, with water (blue spheres) at the core and 1-butanol (yellow spheres) at the surface (Fig. [9](#anchor-F9)). Over time, another layer of butanol and water is configured, resulting in butanol-water-butanol-water layering. At the later stages, another layer of water-butanol is formed again (Fig. [9](#anchor-F9)). 
-
 <a name="anchor-F6"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2">
@@ -120,6 +118,8 @@ Radial analysis of the water/1-butanol system reveals alternating regions of hig
 <p align="center" style="font-size: 30%;">
     <strong>Figure 7</strong>. Snapshot of whole nonane/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The green and yellow spheres represent nonane and 1-butanol molecules, respectively.
 </p>
+
+Radial analysis of the water/1-butanol system reveals alternating regions of high water and 1-butanol concentration, indicated by the alternating bluish and reddish regions in the heatmap (Fig. [8](#anchor-F8)). The cluster snapshots clarify this observation as it shows that a simple core-shell structure is observed at the initial stages of nucleation, with water (blue spheres) at the core and 1-butanol (yellow spheres) at the surface (Fig. [9](#anchor-F9)). Over time, another layer of butanol and water is configured, resulting in butanol-water-butanol-water layering. At the later stages, another layer of water-butanol is formed again (Fig. [9](#anchor-F9)). 
 
 <a name="anchor-F8"></a>
 <p align="center" width="100%">
