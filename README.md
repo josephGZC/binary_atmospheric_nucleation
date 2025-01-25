@@ -63,21 +63,50 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
     <img width="60%" src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 1</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in *nb*, with lower-value radial layers near the core and higher-value layers near the surface..
+    <strong>Figure 1</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in *nb*, with lower-value radial layers near the core and higher-value layers near the surface.
 </p>
 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in *wb*, with lower-value radial layers near the core and higher-value layers near the surface.
+</p>
 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. Fragmentation of nonane within $nb$ clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+</p>
 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. Fragmentation of water within $wb$ clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+</p>
 
-![fig_heatmap_radial_time_SOL_BUT](https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. Fragmentation of butanol within $wb$ clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+</p>
 
-![fig_fragmentation_SOL_BUT_mol1](https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. Fragmentation of nonane within $nb$ clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+</p>
 
-![fig_fragmentation_SOL_BUT_mol1](https://github.com/user-attachments/assets/1731b2f7-c60a-467f-86f8-0737c0bdd194)
-
-![fig_fragmentation_NON_BUT_mol1](https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7)
-
-![fig_fragmentation_NON_BUT_mol2](https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. Fragmentation of butanol within $nb$ clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+</p>
 
 
 
