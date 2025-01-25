@@ -71,7 +71,7 @@ Each system begins as a binary mixture in the vapor state. As the temperature in
 </p>
 <p align="center" style="font-size: 30%;">
     <strong>Figure 3</strong>. Snapshots of nonane/butanol system at (a) 0, (b) 10, and (c) 100 ns.
-</p
+</p>
 
 ### A. Shape and Compisition of Clusters
 
