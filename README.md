@@ -32,8 +32,13 @@ Aerosol formation produces tiny particles that act as starting points for cloud 
 
 This study investigates nucleation and growth of six binary mixtures of atmospherically relevant gases: water, $n$-nonane, 1-butanol.  Representing hydrophilic, hydrophobic, and amphiphilic molecules, these systems are explored using MD simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation.
 
-
-
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/e971229e-bcdf-4251-bba9-9dcb9d32298e">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>.Structure of (a) water, (b) nonane, and (c) 1-butanol.
+</p>
+      
 ## Simulation Setup
 [[back to contents](#contents)]
 
