@@ -21,24 +21,29 @@
 ## Overview
 [[back to contents](#contents)]
 
-Aerosol formation from atmospheric gases is vital to atmospheric science, particularly in cloud condensation processes. The first stage, nucleation, involves the emergence of critical nuclei from supersaturated vapor, a stochastic process described by Classical Nucleation Theory (CNT) as governed by competing surface and bulk free energy terms. While single-component nucleation is well-described by CNT, multi-component nucleation introduces complexity, with cluster composition and interactions significantly influencing nucleation and growth behaviors. Experimental techniques like the cloud chamber method have provided nucleation rate data, yet mapping the internal ordering of critical nuclei remains challenging.
+Aerosol formation produces tiny particles that act as starting points for cloud formation. These particles can change how clouds reflect sunlight or trap heat, affecting the weather and contributing to climate change. Before aerosols formation, two earlier processes are nucleation and growth. Before aerosol formation, two earlier processes are nucleation and growth. Nucleation occurs at the molecular scale, where a few molecules cluster together to form tiny initial particles, while growth happens at a larger scale as these particles accumulate more molecules and increase in size. There is keen interest in studying the early stages of aerosol formation, especially in multi-component systems, which often begin as binary mixtures. The behavior of these systems is characterized by the shape, composition, and ordering of molecules within the clusters formed during these initial processes. By characterizing these systems, researchers can develop more accurate equations and models to track aerosol formation from its earliest stages, ultimately improving weather prediction and climate models.
 
-Computational methods such as Monte Carlo (MC) simulations and molecular dynamics (MD) have offered insights into nucleation. MC simulations excel at calculating critical nucleus size and structure but are computationally expensive for multi-component systems. In contrast, MD simulations enable larger-scale studies of nucleation and growth dynamics, albeit requiring high supersaturation or long simulation times to overcome the low probability of nucleation. Studies of binary systems, like water/ethanol, reveal core-shell motifs and mutual enhancement of nucleation rates due to hydrogen bonding, while water/$n$-nonane systems demonstrate two-pathway mechanisms driven by immiscibility.
+> ℹ️ Where do the investigations start?
+> The shape, structure, and arrangement of clusters depend on the properties of the molecules that make them up, particularly how strongly they attract to each other. By studying hydrophilic (water-loving), hydrophobic (water-repelling), and amphiphilic (having both water-loving and water-repelling parts) molecules, we can predict how clusters will behave based on these properties.
 
 ## Objectives
 [[back to contents](#contents)]
 
-This study investigates homogeneous vapor-liquid nucleation in six binary mixtures of atmospherically relevant gases: water, $n$-nonane, 1-butanol, and methanol. Representing hydrophilic, hydrophobic, large amphiphilic, and small amphiphilic molecules, these systems are explored using MD simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation.
+This study investigates nucleation and growth of six binary mixtures of atmospherically relevant gases: water, $n$-nonane, 1-butanol.  Representing hydrophilic, hydrophobic, large amphiphilic, and small amphiphilic molecules, these systems are explored using MD simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation.
+
+
 
 ## Simulation Setup
 [[back to contents](#contents)]
 
-Six systems were prepared, each containing a binary combination from the quaternary pool of water/$n$-nonane/1-butanol/methanol. The systems were abbreviated as $nb$, $wm$, $wb$, $bm$, $wn$, and $nm$ for $n$-nonane/1-butanol, water/methanol, water/1-butanol, 1-butanol/methanol, water/$n$-nonane, and $n$-nonane/methanol, respectively.
+Six systems were prepared, each containing a binary combination from the quaternary pool of water/$n$-nonane/1-butanol/methanol. The systems were abbreviated as $nb$, $wb$, $wn$, for $n$-nonane/1-butanol, water/1-butanol, and water/$n$-nonane, respectively.
 
-A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three-dimensional periodic boundary condition was set. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types, as shown in Table \ref{tab:sys_components}. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved using the \textit{gmx insert-molecules} module of the Groningen Machine for Chemical Simulations (GROMACS) software package.\cite{van2005gromacs}
+A cubic simulation box of 40 nm$^3$ was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
 
 ## Simulation Analysis
 [[back to contents](#contents)]
+
+
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/9bc8b012-383d-4244-808e-1be41299cbbd" alt="NON_BUT_0NS" width="30%">
