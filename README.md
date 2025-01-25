@@ -105,7 +105,7 @@ For the nonane/1-butanol system, majority of clusters were well mixed as most ra
 
 Radial analysis of the water/1-butanol system reveals alternating regions of high water and 1-butanol concentration, indicated by the alternating bluish and reddish regions in the heatmap (Fig. [8](#anchor-F8)). The cluster snapshots clarify this observation as it shows that a simple core-shell structure is observed at the initial stages of nucleation, with water (blue spheres) at the core and 1-butanol (yellow spheres) at the surface (Fig. [9](#anchor-F9)). Over time, another layer of butanol and water is configured, resulting in butanol-water-butanol-water layering. At the later stages, another layer of water-butanol is formed again (Fig. [9](#anchor-F9)). 
 
-[Wagner and Strey (2001)](https://doi.org/10.1021/jp011460x) previously explored the nucleation of water-$n$-nonane with the expansion pulse method \cite{wagner2001two}. They observed a two-pathway nucleation mechanism, which suggests that both species nucleate independently in a unary manner. This is attributed to the pronounced miscibility gap between the two molecules. It was proposed that, in a system composed of an immiscible pair, it is likely for heterogeneous-like nucleation to occur, whereby the first species to nucleate serves as a substrate for the nucleation of the other. This hypothesis is supported by our observations, with radial analysis showing deep blue and red hue at the heatmap at all time steps (Fig.~\ref{fig:radial_wn}). Visually, a lens-on-sphere\cite{obeidat2015scattering} structure was observed, consisting of a large central $n$-nonane cluster to which are adsorbed several independent water clusters (Fig.~\ref{fig:snapshot_wn}a-c). The cross-section confirms the RDP analysis as no mixing is observed, and each individual structure is either pure $n$-nonane or pure water (Fig.~\ref{fig:snapshot_wn}d-f). These results are in agreement with earlier studies, which report a pronounced miscibility gap between water and $n$-nonane \cite{wagner2001two,chen2003simulating}. 
+[Wagner and Strey (2001)](https://doi.org/10.1021/jp011460x) previously explored the nucleation of water/nonane with the expansion pulse method. They observed a two-pathway nucleation mechanism, which suggests that both species nucleate independently in a unary manner. This is attributed to the pronounced miscibility gap between the two molecules. It was proposed that, in a system composed of an immiscible pair, it is likely for heterogeneous-like nucleation to occur, whereby the first species to nucleate serves as a substrate for the nucleation of the other. This hypothesis is supported by our observations, with radial analysis showing deep blue and red hue at the heatmap at all time steps (Fig. [S5](#https://github.com/user-attachments/assets/bcc138ad-3b46-411a-a280-11c895e016a9)). Visually, a lens-on-sphere\cite{obeidat2015scattering} structure was observed, consisting of a large central $n$-nonane cluster to which are adsorbed several independent water clusters (Fig.~\ref{fig:snapshot_wn}a-c). The cross-section confirms the RDP analysis as no mixing is observed, and each individual structure is either pure $n$-nonane or pure water (Fig.~\ref{fig:snapshot_wn}d-f). These results are in agreement with earlier studies, which report a pronounced miscibility gap between water and $n$-nonane \cite{wagner2001two,chen2003simulating}. 
 
 <a name="anchor-F6"></a>
 <p align="center" width="100%">
@@ -217,6 +217,13 @@ Radial analysis of the water/1-butanol system reveals alternating regions of hig
     <strong>Figure S5</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/nonane, with lower-value radial layers near the core and higher-value layers near the surface.)
 </p>
 
+<a name="anchor-S6"></a>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/b3ac3960-cdf2-4cee-8b40-4d87847fb304">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure S6</strong>.  Snapshot of whole water/nonane clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and green spheres represent water and nonane molecules, respectively.)
+</p>
 
 
 
