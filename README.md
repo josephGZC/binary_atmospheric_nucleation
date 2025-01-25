@@ -54,7 +54,7 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 ## Simulation Analysis
 [[back to contents](#contents)]
 
-
+Each system, starting from binary mixtures that are in a vapor state, the molecules started to cluster together as temperature was raised in the simulation, onset of condensation, as shown in Figure 3. As the simulation progressed, nearly all molecule are clustered together.
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/9bc8b012-383d-4244-808e-1be41299cbbd" alt="NON_BUT_0NS" width="30%">
@@ -64,6 +64,10 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 <p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. System snapshots of nonane-butanol system at 0, 25, and 50 ns.
 </p>
+
+Clusters formed as a result of temperature quenching and underwent dynamic processes of growth and decay. Over time, a distribution of clusters of varying sizes emerged, in which larger clusters comprise higher number of molecules. The generated clusters were analyzed based on their sphericity (Fig. 3, S1, S2) and mole fraction (Fig. 4, S3, S4). For each property, the median values and their variability (spread) are visualized using boxplots. To facilitate a more convenient comparison, the clusters are categorized into three size ranges: small (10<sup>1</sup> to 10<sup>2</sup> molecules), intermediate (10<sup>2</sup> to 10<sup>3</sup> molecules), and large (10<sup>3</sup> to 10<sup>4</sup> molecules). 
+
+For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9 (Fig.~\ref{fig:spher_nb}-\ref{fig:spher_sn}) with a median between 0.7 to 0.8. This suggests significant structure variability from a spherical configuration in the initial phase of droplet formation. In the case of larger-sized clusters, the median sphericity ranges from 0.8 to 1 across different systems, reflecting their stability in a spherical shape. These observations corroborate and expand upon the research by Tarek et al. (1997), which reported increased shape variability in smaller water-ethanol clusters \cite{tarek1997molecular}. Although $wn$ clusters are spherical on average, it exhibits a similar microarrangement to the clusters simulated by Obeidat et al. (2015), where they define a $wn$ droplet to have a lens-on-sphere structure \cite{obeidat2015scattering}. This model describes the $n$-nonane cluster as a lens shape that wets the spherical shape of the water cluster.
 
 
 <p align="center" width="100%">
@@ -125,3 +129,15 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 
 ## Conclusion
 [[back to contents](#contents)]
+
+## Appendix
+
+![fig_sphericity_combined_SOL_NON](https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400)
+
+![fig_sphericity_combined_SOL_BUT](https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033)
+
+![fig_mole_fraction_combined_SOL_NON](https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1)
+
+![fig_mole_fraction_combined_SOL_BUT](https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6)
+
+
