@@ -250,10 +250,6 @@ From these findings, we observe that (a) highly miscible pairs ($wm$, $nb$) form
     <strong>Figure S8</strong>. Fragmentation of butanol within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
 </p>
 
-![fig_fragmentation_snapshot](https://github.com/user-attachments/assets/4cabc819-5983-43a2-8ece-0b60cce42f5f)
-
-
-
 https://github.com/user-attachments/assets/1c8655a1-e64f-4edd-a22f-f7d815077f75
 
 
