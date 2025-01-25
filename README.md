@@ -95,12 +95,6 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
     <strong>Figure 5</strong>. Time evolution of cluster size and mole fraction distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
-</p>
-|:--:| 
-| *Time evolution of cluster size and mole fraction distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>* |
-
 To get a better understanding of the cluster shape and composition, a look into the internal ordering within the cluster is necessary. Radial layers are reported for the largest cluster over time, which were accompanied by cluster snapshots (Fig. [6](#anchor-F6)). The lower-value radial layers signify regions closer to the core while the larger-value radial layers are closer to the cluster surface. Snapshots illustrating the radial layers were captured at 1 ns, 10 ns, and 100 ns to provide a visual representation.
 
 <a name="anchor-F6"></a>
