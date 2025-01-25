@@ -111,7 +111,7 @@ For the nonane/1-butanol system, majority of clusters were well mixed as most ra
 
 Radial analysis of the water/1-butanol system reveals alternating regions of high water and 1-butanol concentration, indicated by the alternating bluish and reddish regions in the heatmap (Fig. [8](#anchor-F8)). The cluster snapshots clarify this observation as it shows that a simple core-shell structure is observed at the initial stages of nucleation, with water (blue spheres) at the core and 1-butanol (yellow spheres) at the surface (Fig. [9](#anchor-F9)). Over time, another layer of butanol and water is configured, resulting in butanol-water-butanol-water layering. At the later stages, another layer of water-butanol is formed again (Fig. [9](#anchor-F9)). 
 
-A water/nonane system was previously explored by [Wagner and Strey (2001)](https://doi.org/10.1021/jp011460x). They observed a two-pathway nucleation mechanism, which suggests that both species nucleate independently in a unary manner. This is attributed to the pronounced miscibility gap between the two molecules. It was proposed that, in a system composed of an immiscible pair, it is likely for heterogeneous-like nucleation to occur, whereby the first species to nucleate serves as a substrate for the nucleation of the other. This hypothesis is supported by our observations, with radial analysis showing deep blue and red hue at the heatmap at all time steps (Fig. [S5](#anchor-S5))). Visually, a lens-on-sphere structure was observed, consisting of a large central nonane cluster to which are adsorbed several independent water clusters (Fig. [S6a-c](#anchor-S6)). The cross-section confirms the RDP analysis as no mixing is observed, and each individual structure is either pure nonane or pure water (Fig. [S6d-f](#anchor-S6)). 
+A water/nonane system was previously explored by [Wagner and Strey (2001)](https://doi.org/10.1021/jp011460x). They observed a two-pathway nucleation mechanism, which suggests that both species nucleate independently in a unary manner. This is attributed to the pronounced miscibility gap between the two molecules. It was proposed that, in a system composed of an immiscible pair, it is likely for heterogeneous-like nucleation to occur, whereby the first species to nucleate serves as a substrate for the nucleation of the other. This hypothesis is supported by our observations, with radial analysis showing deep blue and red hue at the heatmap at all time steps (Fig. [S5](#anchor-S5)). Visually, a lens-on-sphere structure was observed, consisting of a large central nonane cluster to which are adsorbed several independent water clusters (Fig. [S6a-c](#anchor-S6)). The cross-section confirms the radial analysis as no mixing is observed, and each individual structure is either pure nonane or pure water (Fig. [S6d-f](#anchor-S6)). 
 
 <a name="anchor-F6"></a>
 <p align="center" width="100%">
@@ -147,38 +147,32 @@ A water/nonane system was previously explored by [Wagner and Strey (2001)](https
 
 ### C. Unary Ordering of Molecules in Clusters
 
-In investigating the micro-structures within clusters exhibiting minimal or partial miscibility gaps ($nb$, $wm$, $wb$, $bm$), fragments were identified inside the largest clusters. Molecules were considered part of a fragment when clustering criteria were met (Stillinger criterion and energy criterion discussed earlier), with higher fragmentation indicating fewer unary components were networked in the cluster. The fragmentations were likely caused by localized miscibility gaps within the cluster. The results were presented in plots showcasing the total unary components via a line plot and the degree of fragmentation with stacked bar plots, wherein a more reddish bar signifies less fragmentation (a more networked structure) and a bluish bar signifies more fragmentation (a less networked structure). For the butanol component of $wb$, all the molecules were networked to each other as indicated by the red color bars for the largest cluster over time (Fig.~\ref{fig:frag_wb_2}). In contrast, significant fragmentation was observed in the water component of $wb$, as depicted by the varying range of colors from blue to light red Fig.~\ref{fig:frag_wb_1}. A sample 3D representation, shown in Fig.~\ref{fig:frag_snapshot}, serves as a visual aid for the fragmentation in $wb$. In the other pairs, it was also observed that one component had a networked ordering (bars had uniform red color) while another component had a degree of fragmentation as shown in Fig.~\ref{fig:frag_nb_1}-\ref{fig:frag_bm_2}. This trend was less noticeable in pairs with smaller miscibility gaps like in the case of $nb$, wherein the 1-butanol component showed only a small degree of fragmentation (Fig.~\ref{fig:frag_nb_2}). 
+While it is clear that the unary component in water/nonane are clustered separately, there are possible micro-structures that can be viewed in clusters exhibiting minimal or partial miscibility gaps (nonane/1-butanol and water/1-butanol). Homogenous mixing was found in nonane/1-butanol while shell-core structure is found for water/1-butanol, it is possible that further microstructures can be located here. Does homogenous mixing suggest that butanol is mixed equally throughought the entire cluster? or are localized structure appearing. For water/1-butanol, are the core-shell structure cleanly segregated or are localized clumping also found. These requires locating unary clusters within the binary clusters.
+
+In investigating the micro-structures within clusters exhibiting minimal or partial miscibility gaps (nonane/1-butanol and water/1-butanol), fragments were identified inside the largest clusters. Higher fragmentation indicates fewer unary components were networked in the cluster. The fragmentations were likely caused by localized miscibility gaps within the cluster. The results were presented in plots showcasing the total unary components via a line plot and the degree of fragmentation with stacked bar plots, wherein a more reddish bar signifies less fragmentation (a more networked structure) and a bluish bar signifies more fragmentation (a less networked structure). For the butanol component of water/1-butanol, all the molecules were networked to each other as indicated by the red color bars for the largest cluster over time (Fig. [10](#anchor-F10)). In contrast, significant fragmentation was observed in the water component of water/1-butanol, as depicted by the varying range of colors from blue to light red Fig. [11](#anchor-F11). A sample 3D representation, shown in Fig. [12](#anchor-F12), serves as a visual aid for the fragmentation in water/1-butanol. Fragmentation is less noticeable in pairs with smaller miscibility gaps like in the case of nonane, wherein the 1-butanol component showed only a small degree of fragmentation (Fig. [S7](#anchor-S7) and [S8](#anchor-S8)).
 
 <a name="anchor-F10"></a>
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7">
-</p>
-<p align="center" style="font-size: 30%;">
-    <strong>Figure 10</strong>. Fragmentation of nonane within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
-</p>
-
-<a name="anchor-F11"></a>
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392">
-</p>
-<p align="center" style="font-size: 30%;">
-    <strong>Figure 11</strong>. Fragmentation of butanol within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
-</p>
-
-<a name="anchor-F12"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 12</strong>. Fragmentation of water within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+    <strong>Figure 10</strong>. Fragmentation of water within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
 </p>
 
-<a name="anchor-F13"></a>
+<a name="anchor-F11"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 13</strong>. Fragmentation of butanol within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+    <strong>Figure 11</strong>. Fragmentation of butanol within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+</p>
+
+<a name="anchor-F12"></a>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/4cabc819-5983-43a2-8ece-0b60cce42f5f">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 12</strong>. Fragmentation of water molecules in largest $wb$ cluster at the last time step, wherein the three largest fragments are colored light blue, blue, orange (in increasing order of fragmentation size).
 </p>
 
 ## Conclusion
@@ -237,6 +231,24 @@ From these findings, we observe that (a) highly miscible pairs ($wm$, $nb$) form
 <p align="center" style="font-size: 30%;">
     <strong>Figure S6</strong>.  Snapshot of whole water/nonane clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and green spheres represent water and nonane molecules, respectively.)
 </p>
+
+<a name="anchor-S7"></a>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure S7</strong>. Fragmentation of nonane within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+</p>
+
+<a name="anchor-S8"></a>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure S8</strong>. Fragmentation of butanol within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+</p>
+
+![fig_fragmentation_snapshot](https://github.com/user-attachments/assets/4cabc819-5983-43a2-8ece-0b60cce42f5f)
 
 
 
