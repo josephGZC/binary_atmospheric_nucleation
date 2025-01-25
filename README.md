@@ -56,52 +56,13 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 
 Each system, starting from binary mixtures that are in a vapor state, the molecules started to cluster together as temperature was raised in the simulation, onset of condensation, as shown in Figure 3. As the simulation progressed, nearly all molecule are clustered together.
 
-<div style="text-align: center; width: 100%;">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github.com/user-attachments/assets/9bc8b012-383d-4244-808e-1be41299cbbd" alt="NON_BUT_0NS" width="30%">
-    <img src="https://github.com/user-attachments/assets/27db3b5a-e8fb-419b-9184-9a2f094d1365" alt="NON_BUT_10NS" width="30%">
-    <img src="https://github.com/user-attachments/assets/925b4a3f-7470-4bcd-a8cc-7073e373ce92" alt="NON_BUT_20NS" width="30%">
-  </div>
-  <p style="font-size: 90%; margin-top: 10px;">
-    <strong>Figure 1</strong>. System snapshots of nonane-butanol system at 0, 25, and 50 ns.
-  </p>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/9bc8b012-383d-4244-808e-1be41299cbbd" alt="NON_BUT_0NS" width="30%">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/27db3b5a-e8fb-419b-9184-9a2f094d1365" alt="NON_BUT_10NS" width="30%">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/925b4a3f-7470-4bcd-a8cc-7073e373ce92" alt="NON_BUT_20NS" width="30%">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <strong>Figure 1</strong>. System snapshots of nonane-butanol system at 0, 25, and 50 ns.
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/e85b0b37-0349-4764-be1b-65091c65c168">
 </p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 3</strong>. Snapshots of system at (a) 0, (b) 10, and (c) 50 ns.
+</p
 
-<table align="center" style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/9bc8b012-383d-4244-808e-1be41299cbbd" alt="NON_BUT_0NS" width="30%">
-    </td>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/27db3b5a-e8fb-419b-9184-9a2f094d1365" alt="NON_BUT_10NS" width="30%">
-    </td>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/925b4a3f-7470-4bcd-a8cc-7073e373ce92" alt="NON_BUT_20NS" width="30%">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <strong>Figure 1</strong>. System snapshots of nonane-butanol system at 0, 25, and 50 ns.
-</p>
 
 
 Clusters formed as a result of temperature quenching and underwent dynamic processes of growth and decay. Over time, a distribution of clusters of varying sizes emerged, in which larger clusters comprise higher number of molecules. The generated clusters were analyzed based on their sphericity (Fig. 3, S1, S2) and mole fraction (Fig. 4, S3, S4). For each property, the median values and their variability (spread) are visualized using boxplots. To facilitate a more convenient comparison, the clusters are categorized into three size ranges: small (10<sup>1</sup> to 10<sup>2</sup> molecules), intermediate (10<sup>2</sup> to 10<sup>3</sup> molecules), and large (10<sup>3</sup> to 10<sup>4</sup> molecules). 
