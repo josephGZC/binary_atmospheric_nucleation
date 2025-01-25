@@ -49,6 +49,24 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
     <strong>Figure 1</strong>. System snapshots of nonane-butanol system at 0, 25, and 50 ns.
 </p>
 
+## Visualizations
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <div style="position: relative; width: 30%;">
+    <img src="https://github.com/user-attachments/assets/9bc8b012-383d-4244-808e-1be41299cbbd" alt="NON_BUT_0NS" style="width: 100%;">
+    <div style="position: absolute; top: 5px; left: 5px; font-weight: bold; font-size: 16px; color: black;">(a)</div>
+  </div>
+  <div style="position: relative; width: 30%;">
+    <img src="https://github.com/user-attachments/assets/27db3b5a-e8fb-419b-9184-9a2f094d1365" alt="NON_BUT_10NS" style="width: 100%;">
+    <div style="position: absolute; top: 5px; left: 5px; font-weight: bold; font-size: 16px; color: black;">(b)</div>
+  </div>
+  <div style="position: relative; width: 30%;">
+    <img src="https://github.com/user-attachments/assets/925b4a3f-7470-4bcd-a8cc-7073e373ce92" alt="NON_BUT_20NS" style="width: 100%;">
+    <div style="position: absolute; top: 5px; left: 5px; font-weight: bold; font-size: 16px; color: black;">(c)</div>
+  </div>
+</div>
+
+
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
 </p>
