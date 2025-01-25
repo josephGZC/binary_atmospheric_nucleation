@@ -57,9 +57,14 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 
 > 🔎 **Pairs investigated** </br>
 > * nonane/1-butanol </br>
->     * hydrophobic/ampiphilic; minimal miscibility gap, corresponds to excellent mixing) </br>
-> * water/nonane (hydrophilic/hydrophobic; pronounced miscibility gap, corresponds to poor mixing)  </br>
-> * water/1-butanol (hydrophilic/ampiphilic; partial miscibility gap, corresponds  to intermediate mixing) 
+>     * hydrophobic/ampiphilic </br>
+>     * minimal miscibility gap, corresponds to excellent mixing </br>
+> * water/nonane </br>
+>     * hydrophilic/hydrophobic </br>
+>     * pronounced miscibility gap, corresponds to poor mixing </br>
+> * water/1-butanol </br>
+>     * hydrophilic/ampiphilic </br>
+>     * partial miscibility gap, corresponds to intermediate mixing
 
 ## Simulation Analysis
 [[back to contents](#contents)]
