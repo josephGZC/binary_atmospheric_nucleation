@@ -52,6 +52,11 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
     <strong>Figure 2</strong>. Three binary mixtures: nonane/1-butanol, water/nonane, and water/1-butanol.
 </p>
 
+> 🔎 **Pairs investigated </br>
+> * nonane/1-butanol (hydrophobic/ampiphilic; minimal miscibility gap, meaning excellent mixing) </br>
+> * water/1-butanol (hydrophilic/ampiphilic; partial miscibility gap, meaning intermediate mixing)  </br>
+> * water/nonane (hydrophilic/hydrophobic; pronounced miscibility gap, meaning poor mixing)
+
 ## Simulation Analysis
 [[back to contents](#contents)]
 
@@ -77,6 +82,10 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
     <strong>Figure 4</strong>. Time evolution of cluster size and sphericity distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
+Among systems with minimal or partial miscibility gap (nonane/butanol and water/butanol), nearly equal amounts of each nucleating vapor were observed (median $X\approx 0.5$) as shown in Fig.~\ref{fig:mole_frac_nb}-\ref{fig:mole_frac_sn}). Furthermore, a trend was observed in which the spread of mole fraction values decreased with increasing cluster size (as indicated by the decreasing area of the boxplots) for $nb$, $wb$, and $bm$. For $wm$, although the range of mole fraction values narrowed from small to intermediate cluster sizes, it increased from intermediate to large cluster sizes (Fig.~\ref{fig:mole_frac_sm}). In contrast, the $wn$ system exhibited a wide spread of mole fraction values in the small clusters, which is likely caused by the pronounced miscibility gap between the involved molecules (Fig.~\ref{fig:mole_frac_sn}). Interestingly, larger clusters in the $wn$ system displayed mole fraction values close to 0.5. While the observed near-equimolar distribution of nucleating vapors in $nb$, $wm$, $wb$, $bm$, and $nm$ clusters is likely due to the low miscibility gap in these systems, the similar behavior in $wn$ may be caused by another interaction, such as the clumping of unary clusters without significant mixing.
+
+To get a better understanding of the cluster shape and composition, a look into the internal ordering within the cluster is necessary. Radial layers are reported for the largest cluster over time, which were accompanied by cluster snapshots (Fig.~\ref{fig:radial_nb}-\ref{fig:snapshot_wn} and Fig.~\ref{fig:radial_wm}-\ref{fig:snapshot_nm}). The lower-value radial layers signify regions closer to the core while the larger-value radial layers are closer to the cluster surface. Snapshots illustrating the radial layers were captured at 1 ns, 10 ns, and 100 ns to provide a visual representation.
+
 <a name="anchor-F5"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
@@ -98,7 +107,7 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
     <img width="60%" src="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 7</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in water/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
+    <strong>Figure 7</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
 </p>
 
 <p align="center" width="100%">
