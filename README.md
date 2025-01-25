@@ -62,7 +62,7 @@ Each system, starting from binary mixtures that are in a vapor state, the molecu
     <img src="https://github.com/user-attachments/assets/27db3b5a-e8fb-419b-9184-9a2f094d1365" alt="NON_BUT_10NS" width="30%">
     <img src="https://github.com/user-attachments/assets/925b4a3f-7470-4bcd-a8cc-7073e373ce92" alt="NON_BUT_20NS" width="30%">
   </div>
-  <p style="font-size: 90%;">
+  <p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. System snapshots of nonane-butanol system at 0, 25, and 50 ns.
   </p>
 </p>
