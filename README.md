@@ -27,10 +27,6 @@ Computational methods such as Monte Carlo (MC) simulations and molecular dynamic
 
 ## Objectives
 [[back to contents](#contents)]
-![NON_BUT_10NS](https://github.com/user-attachments/assets/27db3b5a-e8fb-419b-9184-9a2f094d1365)
-![NON_BUT_20NS](https://github.com/user-attachments/assets/925b4a3f-7470-4bcd-a8cc-7073e373ce92)
-
-
 
 This study investigates homogeneous vapor-liquid nucleation in six binary mixtures of atmospherically relevant gases: water, $n$-nonane, 1-butanol, and methanol. Representing hydrophilic, hydrophobic, large amphiphilic, and small amphiphilic molecules, these systems are explored using MD simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation.
 
@@ -43,6 +39,14 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
 
 ## Simulation Analysis
 [[back to contents](#contents)]
+
+## Visualizations
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/d276a740-2b5d-4041-bfea-c6deb3241caf" alt="NON_BUT_0NS" width="30%">
+  <img src="https://github.com/user-attachments/assets/27db3b5a-e8fb-419b-9184-9a2f094d1365" alt="NON_BUT_10NS" width="30%">
+  <img src="https://github.com/user-attachments/assets/925b4a3f-7470-4bcd-a8cc-7073e373ce92" alt="NON_BUT_20NS" width="30%">
+</div>
 
 
 <p align="center" width="100%">
