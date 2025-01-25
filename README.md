@@ -183,11 +183,11 @@ To explore these microstructures, fragments within the largest clusters were ana
 For water/1-butanol, the butanol component displayed strong networking, as evidenced by red-colored bars for the largest cluster over time ([Fig. 10](#anchor-F10)). In contrast, significant fragmentation was observed in the water component, reflected by a wide range of colors from blue to light red ([Fig. 11](#anchor-F11)). A 3D representation of the water/1-butanol system, shown in [Fig. 12](#anchor-F12), visually highlights this fragmentation. Conversely, systems with smaller miscibility gaps, such as nonane/1-butanol, exhibited minimal fragmentation. The 1-butanol component showed only a small degree of fragmentation, as demonstrated in supplementary figures ([Fig. S7](#anchor-S7) and [Fig. S8](#anchor-S8)). These findings suggest that fragmentation is less pronounced in systems with better miscibility, reinforcing the relationship between miscibility gaps and cluster microstructure.
 
 > ✅ What are the unary arrangements/ordering of the molecules in each cluster? </br>
-> ➡️ water/1-butanol
->     water: high fragmentation
->     1-butanol: no fragmentation
-> ➡️ nonane/1-butanol
->     nonane: no fragmentation
+> ➡️ water/1-butanol </br>
+>     water: high fragmentation </br>
+>     1-butanol: no fragmentation </br>
+> ➡️ nonane/1-butanol </br>
+>     nonane: no fragmentation </br>
 >     1-butanol: low fragmentation
 
 <a name="anchor-F10"></a>
