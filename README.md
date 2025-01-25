@@ -40,10 +40,8 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
 ## Simulation Analysis
 [[back to contents](#contents)]
 
-## Visualizations
-
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/d276a740-2b5d-4041-bfea-c6deb3241caf" alt="NON_BUT_0NS" width="30%">
+  <img src="https://github.com/user-attachments/assets/9bc8b012-383d-4244-808e-1be41299cbbd" alt="NON_BUT_0NS" width="30%">
   <img src="https://github.com/user-attachments/assets/27db3b5a-e8fb-419b-9184-9a2f094d1365" alt="NON_BUT_10NS" width="30%">
   <img src="https://github.com/user-attachments/assets/925b4a3f-7470-4bcd-a8cc-7073e373ce92" alt="NON_BUT_20NS" width="30%">
 </div>
@@ -55,7 +53,7 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
 <p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. Time evolution of cluster size and sphericity distribution in <i>nb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
-        
+
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
 </p>
