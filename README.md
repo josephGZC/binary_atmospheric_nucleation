@@ -42,13 +42,13 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 ## Simulation Setup
 [[back to contents](#contents)]
 
-Six systems were prepared: nonane/1-butanol, water/1-butanol, and water/nonane. A cubic simulation box of 40 nm$^3$ was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
+Three binary mixtures were analyzed: nonane/1-butanol, water/nonane water/1-butanol (Fig. 2). A cubic simulation box of 40 nm$^3$ was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/89b39247-b85e-432a-945a-dddec8be6320">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 1</strong>. Structure of (a) water, (b) nonane, and (c) 1-butanol, shown using stick models (top) and sphere models (bottom). Carbon (C), oxygen (O), and hydrogen (H) atoms are labeled. Some hydrogen atoms are grayed out to emphasize the carbon atoms, which are more relevant to the discussion of hydrophobic properties.
+    <strong>Figure 2</strong>. Three binary mixtures: nonane/1-butanol, water/nonane water/1-butanol.
 </p>
 
 ## Simulation Analysis
