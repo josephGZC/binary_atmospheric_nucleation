@@ -1,5 +1,5 @@
 # Investigated the homogeneous binary nucleation of atmospherically-relevant molecules
-The following repository contains some of the jupyter lab python scripts I used in the simulation of atmospherically-relevant molecules.
+The following repository contains some of the jupyter lab python scripts I used in the simulation of atmospherically-relevant molecules. </br>
 Each section includes brief, symbol-marked sentences (ℹ️ for information and 🔎 for procedural summaries) to help guide readers in understanding the problem variables and the questions being addressed.
 
 ### Contents
