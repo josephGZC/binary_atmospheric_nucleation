@@ -227,7 +227,7 @@ From these findings, we observe that (a) highly miscible pairs ($wm$, $nb$) form
     <img width="60%" src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
 </p>
 <p align="center" style="font-size: 30%;">
-    <strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
+    <strong>Figure S4</strong>. Time evolution of cluster size and mole fraction distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
 <a name="anchor-S5"></a>
@@ -263,5 +263,7 @@ From these findings, we observe that (a) highly miscible pairs ($wm$, $nb$) form
 </p>
 
 https://github.com/user-attachments/assets/1c8655a1-e64f-4edd-a22f-f7d815077f75
-
+<p align="center" style="font-size: 30%;">
+    <strong>Figure S9</strong>. Video of nonane/1-butanol simulation.
+</p>
 
