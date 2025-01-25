@@ -178,4 +178,12 @@ To get a better understanding of the cluster shape and composition, a look into 
     <strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
+<a name="anchor-S5"></a>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/bcc138ad-3b46-411a-a280-11c895e016a9">
+</p>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure S5</strong>.Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/nonane, with lower-value radial layers near the core and higher-value layers near the surface.)
+
+</p>
 
