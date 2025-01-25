@@ -44,10 +44,10 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 
 > ℹ️ Mole Fraction
 > * Often represents by symbol X
->     * In a mixture, if X<sub>water</sub> = 1: only water is present
->     * In a mixture, if X<sub>water</sub> = 0: no water is present
->     * In a mixture, if 0.5 > X<sub>water</sub> > 1: majority of mixture is water
->     * In a mixture, if 0 > X<sub>water</sub> > 0.5: majority of mixture is not water
+>     * In a mixture, if X<sub>water</sub> = 1.0: only water is present
+>     * In a mixture, if X<sub>water</sub> = 0.0: no water is present
+>     * In a mixture, if 0.5 > X<sub>water</sub> > 1.0: majority of mixture is water
+>     * In a mixture, if 0.0 > X<sub>water</sub> > 0.5: majority of mixture is not water
 
 ## Simulation Setup
 [[back to contents](#contents)]
