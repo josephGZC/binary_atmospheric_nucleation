@@ -48,15 +48,13 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
 </p>
-
 <p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. Time evolution of cluster size and sphericity distribution in <i>nb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
-
+        
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
 </p>
-
 <p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. Time evolution of cluster size and mole fraction distribution in <i>nb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
@@ -64,13 +62,12 @@ A cubic simulation box of 40 nm$^3$ was constructed for each system, and a three
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2">
 </p>
-
 <p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in *nb*, with lower-value radial layers near the core and higher-value layers near the surface..
 </p>
 
 
-![fig_heatmap_radial_time_NON_BUT](https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2)
+
 
 ![fig_heatmap_radial_time_SOL_BUT](https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e)
 
