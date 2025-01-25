@@ -67,7 +67,7 @@ Each system begins as a binary mixture in the vapor state. As the temperature in
 
 <a name="anchor-F3"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/d5383489-7c82-4ad1-b36f-09f489eb6f49">
+    <img width="100%" src="https://github.com/user-attachments/assets/d5383489-7c82-4ad1-b36f-09f489eb6f49">
 </p>
 <p align="center" style="font-size: 30%;">
     <strong>Figure 3</strong>. Snapshots of nonane/butanol system at (a) 0, (b) 10, and (c) 100 ns.
