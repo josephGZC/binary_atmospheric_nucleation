@@ -4,9 +4,9 @@
 
 > Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
 > <br>
-> <img src="https://github.com/user-attachments/assets/bd5aaf6f-33d9-40dc-950a-bfb2636730f3" width="16" height="16"> for information <br>
-> <img src="https://github.com/user-attachments/assets/f5370fa7-b470-4644-b727-017a43f2857b" width="16" height="16"> for procedural summaries <br>
-> <img src="https://github.com/user-attachments/assets/c47afe5d-3ead-447d-9e61-59e4c0bea27c" width="16" height="16"> for analysis summaries
+> <img src="https://github.com/user-attachments/assets/80d403da-1a74-4900-8abc-770bc8970b55" width="16" height="16"> for information <br>
+> <img src="https://github.com/user-attachments/assets/150ca1f6-3723-4ddf-a705-3b93c920ccf4" width="16" height="16"> for procedural summaries <br>
+> <img src="https://github.com/user-attachments/assets/c3365592-6582-47d5-821a-c9868f9e79c1" width="16" height="16"> for analysis summaries
 
 > ℹ️ for information <br>
 > 🔎 for procedural summaries <br>
@@ -14,7 +14,7 @@
 
 ### Contents
 
- <img src="https://github.com/user-attachments/assets/7f758a29-98c6-4537-a139-f9adf1d24a68" width="16" height="16"> **Sections**
+ <img src="https://github.com/user-attachments/assets/da161aaa-2b82-4cf3-9b5b-f873395f1671" width="16" height="16"> **Sections**
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Simulation Setup](#simulation-setup)
@@ -22,7 +22,7 @@
 - [Conclusion](#conclusion)
 - [Appendix](#appendix)
 
-🐍 **Python Scripts**
+ <img src="https://github.com/user-attachments/assets/8b2e23b5-e7cd-493b-958a-7f747a91c16e" width="16" height="16"> **Python Scripts**
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/0_data_fort-to-panda.ipynb" target="_blank">Generate Clusters Dataset</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/1_plot_spatial-heatmap.ipynb" target="_blank">Plot Spatial Heatmap</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/2_data_mole-fraction.ipynb" target="_blank">Generate Mole Fraction Dataset</a>
