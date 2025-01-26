@@ -330,6 +330,6 @@ https://github.com/user-attachments/assets/1c8655a1-e64f-4edd-a22f-f7d815077f75
   <source src="https://github.com/user-attachments/assets/1c8655a1-e64f-4edd-a22f-f7d815077f75" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<p align="center" style="font-size: 80%;">
+<p align="left" style="font-size: 80%;">
     <strong>Figure S9</strong>. Video of nonane/1-butanol simulation.
 </p>
