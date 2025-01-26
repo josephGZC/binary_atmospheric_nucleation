@@ -26,23 +26,52 @@ The following repository contains some of the jupyter lab python scripts I used 
 
 Here’s an early preview of the images you will see in the body of the site:
 
+# Image Preview Carousel
+
+Here’s an early preview of the selected images:
+
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e">
-    <img src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e" width="100" height="100" style="border-radius:50%; margin:5px;">
-  </a>
-  <a href="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47">
-    <img src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47" width="100" height="100" style="border-radius:50%; margin:5px;">
-  </a>
-  <a href="https://github.com/user-attachments/assets/0f1c4e59-c1fb-4fe9-b054-24d8ed3c54ac">
-    <img src="https://github.com/user-attachments/assets/0f1c4e59-c1fb-4fe9-b054-24d8ed3c54ac" width="100" height="100" style="border-radius:50%; margin:5px;">
-  </a>
   <a href="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
-    <img src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185" width="100" height="100" style="border-radius:50%; margin:5px;">
+    <img src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig 4">
   </a>
   <a href="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
-    <img src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5" width="100" height="100" style="border-radius:50%; margin:5px;">
+    <img src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig 5">
+  </a>
+  <a href="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2">
+    <img src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig 6">
+  </a>
+  <a href="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e">
+    <img src="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig 8">
+  </a>
+  <a href="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d">
+    <img src="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig 10">
+  </a>
+  <a href="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
+    <img src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig 11">
+  </a>
+  <a href="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
+    <img src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig S1">
+  </a>
+  <a href="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033">
+    <img src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig S2">
+  </a>
+  <a href="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1">
+    <img src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig S3">
+  </a>
+  <a href="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
+    <img src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig S4">
+  </a>
+  <a href="https://github.com/user-attachments/assets/bcc138ad-3b46-411a-a280-11c895e016a9">
+    <img src="https://github.com/user-attachments/assets/bcc138ad-3b46-411a-a280-11c895e016a9" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig S5">
+  </a>
+  <a href="https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7">
+    <img src="https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig S7">
+  </a>
+  <a href="https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392">
+    <img src="https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392" width="100" height="100" style="border-radius:50%; margin:5px;" alt="Fig S8">
   </a>
 </p>
+
 
 ## Overview
 [[back to contents](#contents)]
