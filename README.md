@@ -143,7 +143,7 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 [[back to contents](#contents)]
 
 <p align="justify"> 
-Each system begins as a binary mixture in the vapor state. As the temperature increases during the simulation, molecules start clustering together, coresponding to the onset of condensation (<a href="#anchor-F3">Fig. 3</a>). Over time, nearly all molecules eventually combine to form larger clusters. A partial video of the simulation is showed in <a href="#anchor-F9">Fig. 9</a>.
+Each system begins as a binary mixture in the vapor state. As the temperature increases during the simulation, molecules start clustering together, coresponding to the onset of condensation (<a href="#anchor-F3">Fig. 3</a>). Over time, nearly all molecules eventually combine to form larger clusters. A partial video of the simulation is showed in <a href="#anchor-S9">Fig. S9</a>.
 </p>
 
 <a name="anchor-F3"></a>
