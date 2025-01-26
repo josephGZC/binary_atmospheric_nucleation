@@ -14,7 +14,7 @@ The following repository contains some of the jupyter lab python scripts I used 
 - [Appendix](#appendix)
 
 🐍 **Python Scripts**
-*<a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/0_data_fort-to-panda.ipynb" target="_blank">Generate Clusters Dataset</a>
+* <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/0_data_fort-to-panda.ipynb" target="_blank">Generate Clusters Dataset</a>
 
 * [Generate Clusters Dataset](ANALYSIS/0_data_fort-to-panda.ipynb)
 * [Plot Spatial Heatmap](ANALYSIS/1_plot_spatial-heatmap.ipynb)
