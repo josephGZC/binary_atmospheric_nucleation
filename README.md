@@ -120,7 +120,7 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 
 <a name="anchor-F4"></a>
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
+    <img width="90%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 4</strong>. Time evolution of cluster size and sphericity distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -137,7 +137,7 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
  
 <a name="anchor-F5"></a>
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
+    <img width="90%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 5</strong>. Time evolution of cluster size and mole fraction distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -257,7 +257,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S1"></a>
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
+    <img width="90%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S1</strong>. Time evolution of cluster size and sphericity distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -265,7 +265,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S2"></a>
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033">
+    <img width="90%" src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S2</strong>. Time evolution of cluster size and sphericity distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -273,7 +273,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S3"></a>
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1">
+    <img width="90%" src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -281,7 +281,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S4"></a>
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
+    <img width="90%" src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S4</strong>. Time evolution of cluster size and mole fraction distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -321,9 +321,13 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S9"></a>
 
-https://github.com/user-attachments/assets/1c8655a1-e64f-4edd-a22f-f7d815077f75
 
 <p align="center" style="font-size: 80%;">
     <strong>Figure S9</strong>. Video of nonane/1-butanol simulation.
 </p>
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/1c8655a1-e64f-4edd-a22f-f7d815077f75" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
