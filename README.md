@@ -110,8 +110,7 @@ Throughout the simulation, a distribution of clusters of varying sizes emerged, 
 </p>
 
 <p align="justify"> 
-For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9 (<a href="#anchor-F4">Fig. 4</a>, <a href="#anchor-S1">Fig. S1</a>, <a href="#anchor-S2">Fig. S2</a>) with a median between 0.7 to 0.8. This suggests significant structure variability from a spherical configuration in the initial phase of droplet formation. In the case of larger-sized clusters, the median sphericity ranges from 0.8 to 1 across different systems, reflecting their stability in a spherical shape. These observations corroborate and expand upon the research by <a href="https://doi.org/10.1021/jp972278s" target="_blank">Tarek et al. (1997)</a>, which reported increased shape variability in smaller water/ethanol clusters. Although water/nonane clusters are spherical on average, it exhibits a similar microarrangement to the clusters simulated by <a href="https://doi.org/10.1021/jp509919u" target="_blank">Obeidat et al. (2015)</a>
-, where they define a water/nonane droplet to have a lens-on-sphere structure. This model describes the nonane cluster as a lens shape that wets the spherical shape of the water cluster.
+For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9 (<a href="#anchor-F4">Fig. 4</a>, <a href="#anchor-S1">Fig. S1</a>, <a href="#anchor-S2">Fig. S2</a>) with a median between 0.7 to 0.8. This suggests significant structure variability from a spherical configuration in the initial phase of droplet formation. In the case of larger-sized clusters, the median sphericity ranges from 0.8 to 1 across different systems, reflecting their stability in a spherical shape. These observations corroborate and expand upon the research by <a href="https://doi.org/10.1021/jp972278s" target="_blank">Tarek et al. (1997)</a>, which reported increased shape variability in smaller water/ethanol clusters. Although water/nonane clusters are spherical on average, it exhibits a similar microarrangement to the clusters simulated by <a href="https://doi.org/10.1021/jp509919u" target="_blank">Obeidat et al. (2015)</a>, where they define a water/nonane droplet to have a lens-on-sphere structure. This model describes the nonane cluster as a lens shape that wets the spherical shape of the water cluster.
 </p>
 
 > 💡 **Is there a trend between cluster size and shape?**
@@ -127,7 +126,7 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 </p>
         
 <p align="justify"> 
-Among systems with minimal or partial miscibility gap (nonane/butanol and water/butanol), nearly equal amounts of each nucleating vapor were observed (median X~0.5) as shown in [Fig. 5](#anchor-F5) and [Fig. S3](#anchor-S3). Furthermore, a trend was observed in which the spread of mole fraction values decreased with increasing cluster size (as indicated by the decreasing area of the boxplots). In contrast, the water/nonane system exhibited a wide spread of mole fraction values in the small clusters, which is likely caused by the pronounced miscibility gap between the involved molecules ([Fig. S4](#anchor-S4)). Interestingly, larger clusters in the water/nonane system displayed mole fraction values close to 0.5. While the observed near-equimolar distribution of nucleating vapors in nonane/butanol and water/butanol clusters is likely due to the low miscibility gap in these systems, the similar behavior in water/nonane may be caused by another interaction, such as the clumping of unary clusters without significant mixing.
+Among systems with minimal or partial miscibility gap (nonane/butanol and water/butanol), nearly equal amounts of each nucleating vapor were observed (median X~0.5) as shown in <a href="#anchor-F5">Fig. F5</a> and <a href="#anchor-S3">Fig. S3</a>. Furthermore, a trend was observed in which the spread of mole fraction values decreased with increasing cluster size (as indicated by the decreasing area of the boxplots). In contrast, the water/nonane system exhibited a wide spread of mole fraction values in the small clusters, which is likely caused by the pronounced miscibility gap between the involved molecules (<a href="#anchor-S4">Fig. S4</a>). Interestingly, larger clusters in the water/nonane system displayed mole fraction values close to 0.5. While the observed near-equimolar distribution of nucleating vapors in nonane/butanol and water/butanol clusters is likely due to the low miscibility gap in these systems, the similar behavior in water/nonane may be caused by another interaction, such as the clumping of unary clusters without significant mixing.
 </p>
 
 > 💡 **What are the observations on mole fraction for each pair?**
@@ -135,7 +134,7 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
 > * For nonane/butanol and water/butanol, this trend is likely because of the low miscibility gap.
 > * For water/nonane and water/butanol, this may be caused by clumping of unary clusters without mixing (need additional analysis, see next sections)
  
-<h2 id="anchor-F5">Figure 5</h2>
+<h2 id="anchor-F5"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
 </p>
