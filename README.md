@@ -277,7 +277,7 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4cabc819-5983-43a2-8ece-0b60cce42f5f" width="80%" alt="Fig 12" style="margin-bottom: 0px;">
   <br>
-  <span style="font-size: 80%;"><strong>Figure 12</strong>. Fragmentation of water molecules in largest $wb$ cluster at the last time step, wherein the three largest fragments are colored light blue, blue, orange (in increasing order of fragmentation size).</span>
+  <span style="font-size: 80%;"><strong>Figure 12</strong>. Fragmentation of water molecules in largest water/1-butanol cluster at the last time step, wherein the three largest fragments are colored light blue, blue, orange (in increasing order of fragmentation size).</span>
 </p>
 
 ## Conclusion
