@@ -217,27 +217,24 @@ A water/nonane system was previously explored by <a href="https://doi.org/10.102
 </p>
 
 <a name="anchor-F7"></a>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/d812696a-f08b-4714-a174-06882a23b269">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 7</strong>. Snapshot of whole nonane/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The green and yellow spheres represent nonane and 1-butanol molecules, respectively.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d812696a-f08b-4714-a174-06882a23b269" width="80%" alt="Fig 7" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 7</strong>. Snapshot of whole nonane/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The green and yellow spheres represent nonane and 1-butanol molecules, respectively.
 </p>
 
 <a name="anchor-F8"></a>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 8</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d812696a-f08b-4714-a174-06882a23b269" width="80%" alt="Fig 8" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 8</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
 </p>
 
 <a name="anchor-F9"></a>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/2a64c8ab-0db6-45d6-8c5f-82dbb2d88543">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 9</strong>. Snapshot of whole water/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and yellow spheres represent water and 1-butanol molecules, respectively.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a64c8ab-0db6-45d6-8c5f-82dbb2d88543" width="80%" alt="Fig 9" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 9</strong>. Snapshot of whole water/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and yellow spheres represent water and 1-butanol molecules, respectively
 </p>
 
 ### C. Unary Ordering of Molecules in Clusters
