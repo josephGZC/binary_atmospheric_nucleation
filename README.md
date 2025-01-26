@@ -153,7 +153,7 @@ Each system begins as a binary mixture in the vapor state. As the temperature in
   <span style="font-size: 80%;"><strong>Figure 3</strong>. Snapshots of nonane/butanol system at (a) 0, (b) 10, and (c) 100 ns.</span>
 </p>
 
-> <img src="https://github.com/user-attachments/assets/0bb79cc2-8c42-4829-b936-d93c6da8a132" width="15" height="15"> &nbsp; We can also consider the nucleation and growth process we are investigating as the first steps of condensation (phase change from vapor state to liquid state). 
+> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; We can also consider the nucleation and growth process we are investigating as the first steps of condensation (phase change from vapor state to liquid state). 
 
 ### A. Shape and Compisition of Clusters
 
