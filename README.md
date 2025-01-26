@@ -63,10 +63,14 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 ## Simulation Setup
 [[back to contents](#contents)]
 
-<p align="justify"> 
+
 Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-butanol ([Fig. 2](#anchor-F2)). A cubic simulation box of 40 nm<sup>3</sup> was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
+
+<p align="justify"> 
+Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-butanol (<a href="#anchor-F2">Fig. 2</a>). A cubic simulation box of 40 nm<sup>3</sup> was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
 </p>
 
+<h2 id="anchor-F2">Figure 2</h2>
 <a name="anchor-F2"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47">
