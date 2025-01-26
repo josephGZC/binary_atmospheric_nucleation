@@ -186,6 +186,8 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
   <span style="font-size: 80%;"><strong>Figure 5</strong>. Time evolution of cluster size and mole fraction distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
+
+
 ### B. Binary Ordering of Molecules in Clusters
 
 <p align="justify"> 
@@ -225,7 +227,7 @@ A water/nonane system was previously explored by <a href="https://doi.org/10.102
 
 <a name="anchor-F8"></a>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d812696a-f08b-4714-a174-06882a23b269" width="80%" alt="Fig 8" style="margin-bottom: 0px;">
+  <img src="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e" width="80%" alt="Fig 8" style="margin-bottom: 0px;">
   <br>
   <span style="font-size: 80%;"><strong>Figure 8</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
 </p>
