@@ -42,7 +42,7 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 
 <a name="anchor-F1"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e">
+    <img width="80%" src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 1</strong>. Structure of (a) water, (b) nonane, and (c) 1-butanol, shown using stick models (top) and sphere models (bottom). Carbon (C), oxygen (O), and hydrogen (H) atoms are labeled. Some hydrogen atoms are grayed out to emphasize the carbon atoms, which are more relevant to the discussion of hydrophobic properties.
@@ -70,7 +70,7 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 
 <a name="anchor-F2"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47">
+    <img width="80%" src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47">
 </p>
 <p align="center" style="font-size: 70%;">
     <strong>Figure 2</strong>. Three binary mixtures: nonane/1-butanol, water/nonane, and water/1-butanol.
@@ -120,7 +120,7 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 
 <a name="anchor-F4"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
+    <img width="80%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 4</strong>. Time evolution of cluster size and sphericity distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -137,7 +137,7 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
  
 <a name="anchor-F5"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
+    <img width="80%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 5</strong>. Time evolution of cluster size and mole fraction distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -168,7 +168,7 @@ A water/nonane system was previously explored by <a href="https://doi.org/10.102
 
 <a name="anchor-F6"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2">
+    <img width="80%" src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 6</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in nonane/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
@@ -176,7 +176,7 @@ A water/nonane system was previously explored by <a href="https://doi.org/10.102
 
 <a name="anchor-F7"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/d812696a-f08b-4714-a174-06882a23b269">
+    <img width="80%" src="https://github.com/user-attachments/assets/d812696a-f08b-4714-a174-06882a23b269">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 7</strong>. Snapshot of whole nonane/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The green and yellow spheres represent nonane and 1-butanol molecules, respectively.
@@ -184,7 +184,7 @@ A water/nonane system was previously explored by <a href="https://doi.org/10.102
 
 <a name="anchor-F8"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e">
+    <img width="80%" src="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 8</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
@@ -192,7 +192,7 @@ A water/nonane system was previously explored by <a href="https://doi.org/10.102
 
 <a name="anchor-F9"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/2a64c8ab-0db6-45d6-8c5f-82dbb2d88543">
+    <img width="80%" src="https://github.com/user-attachments/assets/2a64c8ab-0db6-45d6-8c5f-82dbb2d88543">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 9</strong>. Snapshot of whole water/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and yellow spheres represent water and 1-butanol molecules, respectively.
@@ -220,7 +220,7 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 
 <a name="anchor-F10"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d">
+    <img width="80%" src="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 10</strong>. Fragmentation of butanol within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
@@ -228,7 +228,7 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 
 <a name="anchor-F11"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
+    <img width="80%" src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 11</strong>. Fragmentation of water within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
@@ -236,7 +236,7 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 
 <a name="anchor-F12"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/4cabc819-5983-43a2-8ece-0b60cce42f5f">
+    <img width="80%" src="https://github.com/user-attachments/assets/4cabc819-5983-43a2-8ece-0b60cce42f5f">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure 12</strong>. Fragmentation of water molecules in largest $wb$ cluster at the last time step, wherein the three largest fragments are colored light blue, blue, orange (in increasing order of fragmentation size).
@@ -257,7 +257,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S1"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
+    <img width="80%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S1</strong>. Time evolution of cluster size and sphericity distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -265,7 +265,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S2"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033">
+    <img width="80%" src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S2</strong>. Time evolution of cluster size and sphericity distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -273,7 +273,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S3"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1">
+    <img width="80%" src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -281,7 +281,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S4"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
+    <img width="80%" src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S4</strong>. Time evolution of cluster size and mole fraction distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
@@ -289,7 +289,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S5"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/bcc138ad-3b46-411a-a280-11c895e016a9">
+    <img width="80%" src="https://github.com/user-attachments/assets/bcc138ad-3b46-411a-a280-11c895e016a9">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S5</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/nonane, with lower-value radial layers near the core and higher-value layers near the surface.)
@@ -297,7 +297,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S6"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/b3ac3960-cdf2-4cee-8b40-4d87847fb304">
+    <img width="80%" src="https://github.com/user-attachments/assets/b3ac3960-cdf2-4cee-8b40-4d87847fb304">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S6</strong>.  Snapshot of whole water/nonane clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and green spheres represent water and nonane molecules, respectively.)
@@ -305,7 +305,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S7"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7">
+    <img width="80%" src="https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S7</strong>. Fragmentation of nonane within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
@@ -313,7 +313,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 
 <a name="anchor-S8"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392">
+    <img width="80%" src="https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392">
 </p>
 <p align="center" style="font-size: 80%;">
     <strong>Figure S8</strong>. Fragmentation of butanol within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
