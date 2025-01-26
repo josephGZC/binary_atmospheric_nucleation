@@ -204,7 +204,7 @@ While water and nonane exhibit clear segregation in water/nonane systems, the pr
 
 To explore these microstructures, fragments within the largest clusters were analyzed. Higher fragmentation indicated fewer unary components were networked within the cluster, likely due to localized miscibility gaps. Results were visualized using line plots to depict the total unary components and stacked bar plots to illustrate the degree of fragmentation. In these bar plots, reddish bars represent less fragmentation (a more networked structure), while bluish bars indicate more fragmentation (a less networked structure).
 
-For water/1-butanol, the butanol component displayed strong networking, as evidenced by red-colored bars for the largest cluster over time ([Fig. 10](#anchor-F10)). In contrast, significant fragmentation was observed in the water component, reflected by a wide range of colors from blue to light red ([Fig. 11](#anchor-F11)). A 3D representation of the water/1-butanol system, shown in [Fig. 12](#anchor-F12), visually highlights this fragmentation. Conversely, systems with smaller miscibility gaps, such as nonane/1-butanol, exhibited minimal fragmentation. The 1-butanol component showed only a small degree of fragmentation, as demonstrated in supplementary figures ([Fig. S7](#anchor-S7) and [Fig. S8](#anchor-S8)). These findings suggest that fragmentation is less pronounced in systems with better miscibility, reinforcing the relationship between miscibility gaps and cluster microstructure.
+For water/1-butanol, the butanol component displayed strong networking, as evidenced by red-colored bars for the largest cluster over time (<a href="#anchor-F10">Fig. 10</a>). In contrast, significant fragmentation was observed in the water component, reflected by a wide range of colors from blue to light red (<a href="#anchor-F11">Fig. 11</a>). A 3D representation of the water/1-butanol system, shown in <a href="#anchor-F12">Fig. 12</a>, visually highlights this fragmentation. Conversely, systems with smaller miscibility gaps, such as nonane/1-butanol, exhibited minimal fragmentation. The 1-butanol component showed only a small degree of fragmentation, as demonstrated in supplementary figures (<a href="#anchor-S7">Fig. S7</a> and <a href="#anchor-S8">Fig. S8</a>). These findings suggest that fragmentation is less pronounced in systems with better miscibility, reinforcing the relationship between miscibility gaps and cluster microstructure.
 </p>
 
 > 💡 **What are the unary arrangements/ordering of the molecules in each cluster?** 
@@ -251,7 +251,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 ## Appendix
 [[back to contents](#contents)]
 
-<h2 id="anchor-S1">Figure S1</h2>
+<h2 id="anchor-S1"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
 </p>
@@ -259,7 +259,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S1</strong>. Time evolution of cluster size and sphericity distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<h2 id="anchor-S2">Figure S2</h2>
+<h2 id="anchor-S2"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033">
 </p>
@@ -267,7 +267,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S2</strong>. Time evolution of cluster size and sphericity distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<h2 id="anchor-S3">Figure S3</h2>
+<h2 id="anchor-S3"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1">
 </p>
@@ -275,7 +275,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<h2 id="anchor-S4">Figure S4</h2>
+<h2 id="anchor-S4"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
 </p>
