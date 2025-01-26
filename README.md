@@ -67,7 +67,7 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-butanol (<a href="#anchor-F2">Fig. 2</a>). A cubic simulation box of 40 nm<sup>3</sup> was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
 </p>
 
-<h2 id="anchor-F2">Figure 2</h2>
+<h2 id="anchor-F2"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47">
 </p>
@@ -93,7 +93,7 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 Each system begins as a binary mixture in the vapor state. As the temperature increases during the simulation, molecules start clustering together, coresponding to the onset of condensation (<a href="#anchor-F3">Fig. 3</a>). Over time, nearly all molecules eventually combine to form larger clusters. A partial video of the simulation is showed in <a href="#anchor-F9">Fig. 9</a>.
 </p>
 
-<h2 id="anchor-F3">Figure 3</h2>
+<h2 id="anchor-F3"></h2>
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/user-attachments/assets/0f1c4e59-c1fb-4fe9-b054-24d8ed3c54ac">
 </p>
@@ -117,7 +117,7 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 > * Yes, clusters become more spherical with increasing cluster size 
 > * This trend is observed for all the pairs investigated.
 
-<h2 id="anchor-F4">Figure 4</h2>
+<h2 id="anchor-F4"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
 </p>
@@ -126,7 +126,7 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 </p>
         
 <p align="justify"> 
-Among systems with minimal or partial miscibility gap (nonane/butanol and water/butanol), nearly equal amounts of each nucleating vapor were observed (median X~0.5) as shown in <a href="#anchor-F5">Fig. F5</a> and <a href="#anchor-S3">Fig. S3</a>. Furthermore, a trend was observed in which the spread of mole fraction values decreased with increasing cluster size (as indicated by the decreasing area of the boxplots). In contrast, the water/nonane system exhibited a wide spread of mole fraction values in the small clusters, which is likely caused by the pronounced miscibility gap between the involved molecules (<a href="#anchor-S4">Fig. S4</a>). Interestingly, larger clusters in the water/nonane system displayed mole fraction values close to 0.5. While the observed near-equimolar distribution of nucleating vapors in nonane/butanol and water/butanol clusters is likely due to the low miscibility gap in these systems, the similar behavior in water/nonane may be caused by another interaction, such as the clumping of unary clusters without significant mixing.
+Among systems with minimal or partial miscibility gap (nonane/butanol and water/butanol), nearly equal amounts of each nucleating vapor were observed (median X~0.5) as shown in <a href="#anchor-F5">Fig. 5</a> and <a href="#anchor-S3">Fig. S3</a>. Furthermore, a trend was observed in which the spread of mole fraction values decreased with increasing cluster size (as indicated by the decreasing area of the boxplots). In contrast, the water/nonane system exhibited a wide spread of mole fraction values in the small clusters, which is likely caused by the pronounced miscibility gap between the involved molecules (<a href="#anchor-S4">Fig. S4</a>). Interestingly, larger clusters in the water/nonane system displayed mole fraction values close to 0.5. While the observed near-equimolar distribution of nucleating vapors in nonane/butanol and water/butanol clusters is likely due to the low miscibility gap in these systems, the similar behavior in water/nonane may be caused by another interaction, such as the clumping of unary clusters without significant mixing.
 </p>
 
 > 💡 **What are the observations on mole fraction for each pair?**
@@ -145,15 +145,15 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
 ### B. Binary Ordering of Molecules in Clusters
 
 <p align="justify"> 
-To get a better understanding of the cluster shape and composition, a look into the internal ordering within the cluster is necessary. Radial layers are reported for the largest cluster over time, which were accompanied by cluster snapshots ([Fig. 6](#anchor-F6)). The lower-value radial layers signify regions closer to the core while the larger-value radial layers are closer to the cluster surface. Snapshots illustrating the radial layers were captured at 1 ns, 10 ns, and 100 ns to provide a visual representation.
+To get a better understanding of the cluster shape and composition, a look into the internal ordering within the cluster is necessary. Radial layers are reported for the largest cluster over time, which were accompanied by cluster snapshots (<a href="#anchor-F6">Fig. 6</a>). The lower-value radial layers signify regions closer to the core while the larger-value radial layers are closer to the cluster surface. Snapshots illustrating the radial layers were captured at 1 ns, 10 ns, and 100 ns to provide a visual representation.
 </p>
     
 <p align="justify"> 
-For the nonane/1-butanol system, majority of clusters were well mixed as most radial layers had mole fraction values close to 0.5, indicated by the grayish color in [Fig. 6](#anchor-F6). This is in agreement with the visual inspection of the nuclei snapshots, where nonane (green spheres) and 1-butanol (yellow spheres) are evenly distributed in the cluster surface ([Fig. 7a-c](#anchor-F7)) and the interior of the cluster ([Fig. 7d-f](#anchor-F7)), indicating homogeneous mixing between the two nucleating species. Additionally, the observed mixing behavior further verifies that the reluctant co-nucleation reported for nonane and alcohol mixtures is minimized in nonane/1-butanol by the relatively long alkyl tail of 1-butanol. 
+For the nonane/1-butanol system, majority of clusters were well mixed as most radial layers had mole fraction values close to 0.5, indicated by the grayish color in <a href="#anchor-F6">Fig. 6</a>. This is in agreement with the visual inspection of the nuclei snapshots, where nonane (green spheres) and 1-butanol (yellow spheres) are evenly distributed in the cluster surface (<a href="#anchor-F7">Fig. 7a-c</a>) and the interior of the cluster (<a href="#anchor-S4">Fig. 7d-f</a>), indicating homogeneous mixing between the two nucleating species. Additionally, the observed mixing behavior further verifies that the reluctant co-nucleation reported for nonane and alcohol mixtures is minimized in nonane/1-butanol by the relatively long alkyl tail of 1-butanol. 
 </p>
     
 <p align="justify"> 
-Radial analysis of the water/1-butanol system reveals alternating regions of high water and 1-butanol concentration, indicated by the alternating bluish and reddish regions in the heatmap ([Fig. 8](#anchor-F8)). The cluster snapshots clarify this observation as it shows that a simple core-shell structure is observed at the initial stages of nucleation, with water (blue spheres) at the core and 1-butanol (yellow spheres) at the surface ([Fig. 9](#anchor-F9)). Over time, another layer of butanol and water is configured, resulting in butanol-water-butanol-water layering. At the later stages, another layer of water-butanol is formed again ([Fig. 9](#anchor-F9)). 
+Radial analysis of the water/1-butanol system reveals alternating regions of high water and 1-butanol concentration, indicated by the alternating bluish and reddish regions in the heatmap (<a href="#anchor-F8">Fig. 8</a>). The cluster snapshots clarify this observation as it shows that a simple core-shell structure is observed at the initial stages of nucleation, with water (blue spheres) at the core and 1-butanol (yellow spheres) at the surface (<a href="#anchor-F9">Fig. 9</a>). Over time, another layer of butanol and water is configured, resulting in butanol-water-butanol-water layering. At the later stages, another layer of water-butanol is formed again (<a href="#anchor-F9">Fig. 9</a>). 
 </p>
 
 <p align="justify"> 
@@ -165,7 +165,7 @@ A water/nonane system was previously explored by [Wagner and Strey (2001)](https
 > * water/1-butanol: core-shell ordering 
 > * water/nonane: lens-sphere ordering 
 
-<a name="anchor-F6"></a>
+<h2 id="anchor-F6"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2">
 </p>
@@ -173,7 +173,7 @@ A water/nonane system was previously explored by [Wagner and Strey (2001)](https
     <strong>Figure 6</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in nonane/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
 </p>
 
-<a name="anchor-F7"></a>
+<h2 id="anchor-F7"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/d812696a-f08b-4714-a174-06882a23b269">
 </p>
@@ -181,7 +181,7 @@ A water/nonane system was previously explored by [Wagner and Strey (2001)](https
     <strong>Figure 7</strong>. Snapshot of whole nonane/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The green and yellow spheres represent nonane and 1-butanol molecules, respectively.
 </p>
 
-<a name="anchor-F8"></a>
+<h2 id="anchor-F8"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e">
 </p>
@@ -189,7 +189,7 @@ A water/nonane system was previously explored by [Wagner and Strey (2001)](https
     <strong>Figure 8</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
 </p>
 
-<a name="anchor-F9"></a>
+<h2 id="anchor-F9"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/2a64c8ab-0db6-45d6-8c5f-82dbb2d88543">
 </p>
@@ -215,7 +215,7 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nonane: no fragmentation </br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1-butanol: low fragmentation
 
-<a name="anchor-F10"></a>
+<h2 id="anchor-F10"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d">
 </p>
@@ -223,7 +223,7 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
     <strong>Figure 10</strong>. Fragmentation of butanol within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
 </p>
 
-<a name="anchor-F11"></a>
+<h2 id="anchor-F11"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
 </p>
@@ -231,7 +231,7 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
     <strong>Figure 11</strong>. Fragmentation of water within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
 </p>
 
-<a name="anchor-F12"></a>
+<h2 id="anchor-F12"></h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/4cabc819-5983-43a2-8ece-0b60cce42f5f">
 </p>
