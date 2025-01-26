@@ -22,6 +22,28 @@ The following repository contains some of the jupyter lab python scripts I used 
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/5_data_fragmentation.ipynb" target="_blank">Generate Fragmentation Dataset</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/6_plot_fragmentation.ipynb" target="_blank">Plot Fragmentation</a>
 
+# Image Preview Carousel
+
+Here’s an early preview of the images you will see in the body of the site:
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e">
+    <img src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e" width="100" height="100" style="border-radius:50%; margin:5px;">
+  </a>
+  <a href="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47">
+    <img src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47" width="100" height="100" style="border-radius:50%; margin:5px;">
+  </a>
+  <a href="https://github.com/user-attachments/assets/0f1c4e59-c1fb-4fe9-b054-24d8ed3c54ac">
+    <img src="https://github.com/user-attachments/assets/0f1c4e59-c1fb-4fe9-b054-24d8ed3c54ac" width="100" height="100" style="border-radius:50%; margin:5px;">
+  </a>
+  <a href="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
+    <img src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185" width="100" height="100" style="border-radius:50%; margin:5px;">
+  </a>
+  <a href="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
+    <img src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5" width="100" height="100" style="border-radius:50%; margin:5px;">
+  </a>
+</p>
+
 ## Overview
 [[back to contents](#contents)]
 
