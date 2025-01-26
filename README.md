@@ -29,8 +29,6 @@ The following repository contains some of the jupyter lab python scripts I used 
 Aerosol formation produces tiny particles that act as starting points for cloud formation. These particles can change how clouds reflect sunlight or trap heat, affecting the weather and contributing to climate change. Before aerosols formation, two earlier processes are nucleation and growth. Before aerosol formation, two earlier processes are nucleation and growth. Nucleation occurs at the molecular scale, where a few molecules cluster together to form tiny initial particles, while growth happens at a larger scale as these particles accumulate more molecules and increase in size. There is keen interest in studying the early stages of aerosol formation, especially in multi-component systems, which often begin as binary mixtures. The behavior of these systems is characterized by the shape, composition, and ordering of molecules within the clusters formed during these initial processes. By characterizing these systems, researchers can develop more accurate equations and models to track aerosol formation from its earliest stages, ultimately improving weather prediction and climate models. 
 </p>
 
-Aerosol formation produces tiny particles that act as starting points for cloud formation. These particles can change how clouds reflect sunlight or trap heat, affecting the weather and contributing to climate change. Before aerosols formation, two earlier processes are nucleation and growth. Before aerosol formation, two earlier processes are nucleation and growth. Nucleation occurs at the molecular scale, where a few molecules cluster together to form tiny initial particles, while growth happens at a larger scale as these particles accumulate more molecules and increase in size. There is keen interest in studying the early stages of aerosol formation, especially in multi-component systems, which often begin as binary mixtures. The behavior of these systems is characterized by the shape, composition, and ordering of molecules within the clusters formed during these initial processes. By characterizing these systems, researchers can develop more accurate equations and models to track aerosol formation from its earliest stages, ultimately improving weather prediction and climate models.
-
 > ℹ️ **Where do the investigations start?**
 > * The shape, structure, and arrangement of clusters depend on the properties of the molecules that make them up, particularly how strongly the molecules attract to each other. 
 > * By studying hydrophilic (water-loving), hydrophobic (water-repelling), and amphiphilic (having both water-loving and water-repelling parts) molecules, we can predict how clusters will behave based on these properties.
@@ -38,7 +36,9 @@ Aerosol formation produces tiny particles that act as starting points for cloud 
 ## Objectives
 [[back to contents](#contents)]
 
+<p align="justify"> 
 This study investigates nucleation and growth of three binary mixtures of atmospherically relevant gases: water, nonane, 1-butanol. Representing hydrophilic, hydrophobic, and amphiphilic molecules, these systems are explored using molecular dynamics simulations to analyze cluster structures and their evolution over time. By linking molecular properties to emerging cluster configurations, this work advances the understanding of fundamental binary nucleation mechanisms and their relevance to atmospheric aerosol formation. Among the properties to be investigated are sphericity and mole fraction.
+</p>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e">
@@ -63,7 +63,9 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 ## Simulation Setup
 [[back to contents](#contents)]
 
+<p align="justify"> 
 Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-butanol ([Fig. 2](#anchor-F2)). A cubic simulation box of 40 nm<sup>3</sup> was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
+</p>
 
 <a name="anchor-F2"></a>
 <p align="center" width="100%">
@@ -87,7 +89,9 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 ## Simulation Analysis
 [[back to contents](#contents)]
 
+<p align="justify"> 
 Each system begins as a binary mixture in the vapor state. As the temperature increases during the simulation, molecules start clustering together, coresponding to the onset of condensation ([Fig. 3](#anchor-F3)). Over time, nearly all molecules eventually combine to form larger clusters. A partial video of the simulation is showed in [Fig. S9](#anchor-S9).
+</p>
 
 <a name="anchor-F3"></a>
 <p align="center" width="100%">
@@ -101,9 +105,11 @@ Each system begins as a binary mixture in the vapor state. As the temperature in
 
 ### A. Shape and Compisition of Clusters
 
+<p align="justify"> 
 Throughout the simulation, a distribution of clusters of varying sizes emerged, in which larger clusters comprise higher number of molecules. The generated clusters were analyzed based on their sphericity ([Fig. 4](#anchor-F4), [Fig. S1](#anchor-S1), [Fig. S2](#anchor-S2)) and mole fraction ([Fig. 5](#anchor-F5), [Fig. S3](#anchor-S3), [Fig. S4](#anchor-S4)). For each property, the median values and their variability (spread) are visualized using boxplots. To facilitate a more convenient comparison, the clusters are categorized into three size ranges: small (10<sup>1</sup> to 10<sup>2</sup> molecules), intermediate (10<sup>2</sup> to 10<sup>3</sup> molecules), and large (10<sup>3</sup> to 10<sup>4</sup> molecules). 
 
 For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9 ([Fig. 4](#anchor-F4), [Fig. S1](#anchor-S1), [Fig. S2](#anchor-S2)) with a median between 0.7 to 0.8. This suggests significant structure variability from a spherical configuration in the initial phase of droplet formation. In the case of larger-sized clusters, the median sphericity ranges from 0.8 to 1 across different systems, reflecting their stability in a spherical shape. These observations corroborate and expand upon the research by [Tarek et al. (1997)](https://doi.org/10.1021/jp972278s), which reported increased shape variability in smaller water/ethanol clusters. Although water/nonane clusters are spherical on average, it exhibits a similar microarrangement to the clusters simulated by [Obeidat et al. (2015)](https://doi.org/10.1021/jp509919u), where they define a water/nonane droplet to have a lens-on-sphere structure. This model describes the nonane cluster as a lens shape that wets the spherical shape of the water cluster.
+</p>
 
 > 💡 **Is there a trend between cluster size and shape?**
 > * Yes, clusters become more spherical with increasing cluster size 
@@ -116,8 +122,10 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 <p align="center" style="font-size: 80%;">
     <strong>Figure 4</strong>. Time evolution of cluster size and sphericity distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
-
+        
+<p align="justify"> 
 Among systems with minimal or partial miscibility gap (nonane/butanol and water/butanol), nearly equal amounts of each nucleating vapor were observed (median X~0.5) as shown in [Fig. 5](#anchor-F5) and [Fig. S3](#anchor-S3). Furthermore, a trend was observed in which the spread of mole fraction values decreased with increasing cluster size (as indicated by the decreasing area of the boxplots). In contrast, the water/nonane system exhibited a wide spread of mole fraction values in the small clusters, which is likely caused by the pronounced miscibility gap between the involved molecules ([Fig. S4](#anchor-S4)). Interestingly, larger clusters in the water/nonane system displayed mole fraction values close to 0.5. While the observed near-equimolar distribution of nucleating vapors in nonane/butanol and water/butanol clusters is likely due to the low miscibility gap in these systems, the similar behavior in water/nonane may be caused by another interaction, such as the clumping of unary clusters without significant mixing.
+</p>
 
 > 💡 **What are the observations on mole fraction for each pair?**
 > * Mole fraction of clusters move closer to 0.5 with increasing cluster size.
@@ -134,6 +142,7 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
 
 ### B. Binary Ordering of Molecules in Clusters
 
+<p align="justify"> 
 To get a better understanding of the cluster shape and composition, a look into the internal ordering within the cluster is necessary. Radial layers are reported for the largest cluster over time, which were accompanied by cluster snapshots ([Fig. 6](#anchor-F6)). The lower-value radial layers signify regions closer to the core while the larger-value radial layers are closer to the cluster surface. Snapshots illustrating the radial layers were captured at 1 ns, 10 ns, and 100 ns to provide a visual representation.
 
 For the nonane/1-butanol system, majority of clusters were well mixed as most radial layers had mole fraction values close to 0.5, indicated by the grayish color in [Fig. 6](#anchor-F6). This is in agreement with the visual inspection of the nuclei snapshots, where nonane (green spheres) and 1-butanol (yellow spheres) are evenly distributed in the cluster surface ([Fig. 7a-c](#anchor-F7)) and the interior of the cluster ([Fig. 7d-f](#anchor-F7)), indicating homogeneous mixing between the two nucleating species. Additionally, the observed mixing behavior further verifies that the reluctant co-nucleation reported for nonane and alcohol mixtures is minimized in nonane/1-butanol by the relatively long alkyl tail of 1-butanol. 
@@ -141,6 +150,7 @@ For the nonane/1-butanol system, majority of clusters were well mixed as most ra
 Radial analysis of the water/1-butanol system reveals alternating regions of high water and 1-butanol concentration, indicated by the alternating bluish and reddish regions in the heatmap ([Fig. 8](#anchor-F8)). The cluster snapshots clarify this observation as it shows that a simple core-shell structure is observed at the initial stages of nucleation, with water (blue spheres) at the core and 1-butanol (yellow spheres) at the surface ([Fig. 9](#anchor-F9)). Over time, another layer of butanol and water is configured, resulting in butanol-water-butanol-water layering. At the later stages, another layer of water-butanol is formed again ([Fig. 9](#anchor-F9)). 
 
 A water/nonane system was previously explored by [Wagner and Strey (2001)](https://doi.org/10.1021/jp011460x). They observed a two-pathway nucleation mechanism, which suggests that both species nucleate independently in a unary manner. This is attributed to the pronounced miscibility gap between the two molecules. It was proposed that, in a system composed of an immiscible pair, it is likely for heterogeneous-like nucleation to occur, whereby the first species to nucleate serves as a substrate for the nucleation of the other. This hypothesis is supported by our observations, with radial analysis showing deep blue and red hue at the heatmap at all time steps ([Fig. S5](#anchor-S5)). Visually, a lens-on-sphere structure was observed, consisting of a large central nonane cluster to which are adsorbed several independent water clusters ([Fig. S6a-c](#anchor-S6)). The cross-section confirms the radial analysis as no mixing is observed, and each individual structure is either pure nonane or pure water ([Fig. S6d-f](#anchor-S6)). 
+</p>
 
 > 💡**What are the binary arrangements/ordering of the molecules in each cluster?** 
 > * nonane/1-butanol: homogenous mixing 
@@ -181,11 +191,13 @@ A water/nonane system was previously explored by [Wagner and Strey (2001)](https
 
 ### C. Unary Ordering of Molecules in Clusters
 
+<p align="justify">
 While water and nonane exhibit clear segregation in water/nonane systems, the presence of microstructures within clusters formed by systems with minimal or partial miscibility gaps (nonane/1-butanol and water/1-butanol) warrants further investigation. Homogeneous mixing was observed in nonane/1-butanol clusters, but questions remain: Is butanol evenly distributed throughout the entire cluster, or are localized structures present? Similarly, for water/1-butanol, is the core-shell structure strictly segregated, or are there instances of localized clumping? Addressing these questions requires identifying unary clusters within the binary clusters.
 
 To explore these microstructures, fragments within the largest clusters were analyzed. Higher fragmentation indicated fewer unary components were networked within the cluster, likely due to localized miscibility gaps. Results were visualized using line plots to depict the total unary components and stacked bar plots to illustrate the degree of fragmentation. In these bar plots, reddish bars represent less fragmentation (a more networked structure), while bluish bars indicate more fragmentation (a less networked structure).
 
 For water/1-butanol, the butanol component displayed strong networking, as evidenced by red-colored bars for the largest cluster over time ([Fig. 10](#anchor-F10)). In contrast, significant fragmentation was observed in the water component, reflected by a wide range of colors from blue to light red ([Fig. 11](#anchor-F11)). A 3D representation of the water/1-butanol system, shown in [Fig. 12](#anchor-F12), visually highlights this fragmentation. Conversely, systems with smaller miscibility gaps, such as nonane/1-butanol, exhibited minimal fragmentation. The 1-butanol component showed only a small degree of fragmentation, as demonstrated in supplementary figures ([Fig. S7](#anchor-S7) and [Fig. S8](#anchor-S8)). These findings suggest that fragmentation is less pronounced in systems with better miscibility, reinforcing the relationship between miscibility gaps and cluster microstructure.
+</p>
 
 > 💡 **What are the unary arrangements/ordering of the molecules in each cluster?** 
 > * water/1-butanol </br>
@@ -222,9 +234,11 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 ## Conclusion
 [[back to contents](#contents)]
 
+<p align="justify">
 A broad overview is first extracted from the clusters based on sphericity and mole fraction. In this stage of the analysis, clusters were found to be more spherical with increasing cluster size regardless of miscibility. While more miscible species had less mole fraction variability from an equimolar composition. Substructural features were also observed in terms of orientational ordering in each cluster. Diverse clustering structures of three binary combinations from the water/nonane/1-butanol pool were revealed using molecular dynamics. To summarize: nonane/1-butanol resulted in homogeneously-mixed clusters due to their minimal miscibility gap. Meanwhile, water/1-butanol portrayed more distinct core-shell structures. Finally, water/nonane assumed a lens-on-sphere configuration composed of a large central nonane cluster to which several smaller water clusters were adsorbed, without any observed mixing.
 
 From these findings, we observe that (a) highly miscible pairs form homogeneously-mixed clusters, (b) partially miscible pairs can form component-enriched regions as a means to maximize favorable interactions, and (c) completely immiscible pairs exhibit heterogeneous-like nucleation, wherein each component nucleates independently, and the first cluster serves as the substrate for the nucleation of the other. In partially miscible pairs, network-like microstructures and fragmented pockets can occur within seemingly uniform clusters. Taken together, the findings in this work have a direct impact on nucleation calculations, as we have shown that binary mixtures exhibit microheterogeneity and non-sphericity, and thus do not necessarily obey classical theories. Current theory has been shown to make nonphysical predictions, and the structural information that we have presented in this study should be considered in the development of future models.
+</p>
 
 ## Appendix
 [[back to contents](#contents)]
