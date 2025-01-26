@@ -8,6 +8,8 @@
 > 🔎 for procedural summaries <br>
 > 💡 for analysis summaries
 
+<i class="fi fi-rr-shopping-cart"></i>
+
 ### Contents
 
 🔖 **Sections**
