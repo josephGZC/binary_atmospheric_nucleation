@@ -262,7 +262,7 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 <p align="center">
   <img src="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d" width="80%" alt="Fig 10" style="margin-bottom: 0px;">
   <br>
-  <span style="font-size: 80%;"> <strong>Figure 10</strong>. Fragmentation of 1-butanol within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).</span>
+  <span style="font-size: 80%;"><strong>Figure 10</strong>. Fragmentation of 1-butanol within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).</span>
 </p>
 
 
