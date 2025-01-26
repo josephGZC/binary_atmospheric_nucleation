@@ -63,7 +63,7 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 
 <a name="anchor-F2"></a>
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/89b39247-b85e-432a-945a-dddec8be6320">
+    <img width="60%" src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47">
 </p>
 <p align="center" style="font-size: 70%;">
     <strong>Figure 2</strong>. Three binary mixtures: nonane/1-butanol, water/nonane, and water/1-butanol.
