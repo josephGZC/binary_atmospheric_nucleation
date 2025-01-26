@@ -213,28 +213,28 @@ A water/nonane system was previously explored by <a href="https://doi.org/10.102
 <p align="center">
   <img src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2" width="80%" alt="Fig 6" style="margin-bottom: 0px;">
   <br>
-  <span style="font-size: 80%;"><strong>Figure 6</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in nonane/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
+  <span style="font-size: 80%;"><strong>Figure 6</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in nonane/butanol, with lower-value radial layers near the core and higher-value layers near the surface.</span>
 </p>
 
 <a name="anchor-F7"></a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d812696a-f08b-4714-a174-06882a23b269" width="80%" alt="Fig 7" style="margin-bottom: 0px;">
   <br>
-  <span style="font-size: 80%;"><strong>Figure 7</strong>. Snapshot of whole nonane/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The green and yellow spheres represent nonane and 1-butanol molecules, respectively.
+  <span style="font-size: 80%;"><strong>Figure 7</strong>. Snapshot of whole nonane/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The green and yellow spheres represent nonane and 1-butanol molecules, respectively.</span>
 </p>
 
 <a name="anchor-F8"></a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/305171f9-b47e-4c40-ba40-a005be41b70e" width="80%" alt="Fig 8" style="margin-bottom: 0px;">
   <br>
-  <span style="font-size: 80%;"><strong>Figure 8</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
+  <span style="font-size: 80%;"><strong>Figure 8</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/butanol, with lower-value radial layers near the core and higher-value layers near the surface.</span>
 </p>
 
 <a name="anchor-F9"></a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2a64c8ab-0db6-45d6-8c5f-82dbb2d88543" width="80%" alt="Fig 9" style="margin-bottom: 0px;">
   <br>
-  <span style="font-size: 80%;"><strong>Figure 9</strong>. Snapshot of whole water/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and yellow spheres represent water and 1-butanol molecules, respectively
+  <span style="font-size: 80%;"><strong>Figure 9</strong>. Snapshot of whole water/1-butanol clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and yellow spheres represent water and 1-butanol molecules, respectively.</span>
 </p>
 
 ### C. Unary Ordering of Molecules in Clusters
@@ -257,28 +257,27 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 >     - nonane: no fragmentation 
 >     - 1-butanol: low fragmentation
 
+
 <a name="anchor-F10"></a>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 10</strong>. Fragmentation of butanol within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53cea23c-d955-41da-a259-61bc761c901d" width="80%" alt="Fig 10" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"> <strong>Figure 10</strong>. Fragmentation of 1-butanol within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).</span>
 </p>
 
+
 <a name="anchor-F11"></a>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 11</strong>. Fragmentation of water within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a647968-a4f3-4400-bb2c-4b0944e1398a" width="80%" alt="Fig 11" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 11</strong>. Fragmentation of water within water/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).</span>
 </p>
 
 <a name="anchor-F12"></a>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/4cabc819-5983-43a2-8ece-0b60cce42f5f">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 12</strong>. Fragmentation of water molecules in largest $wb$ cluster at the last time step, wherein the three largest fragments are colored light blue, blue, orange (in increasing order of fragmentation size).
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4cabc819-5983-43a2-8ece-0b60cce42f5f" width="80%" alt="Fig 12" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 12</strong>. Fragmentation of water molecules in largest $wb$ cluster at the last time step, wherein the three largest fragments are colored light blue, blue, orange (in increasing order of fragmentation size).</span>
 </p>
 
 ## Conclusion
