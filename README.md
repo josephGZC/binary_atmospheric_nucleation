@@ -165,7 +165,7 @@ Throughout the simulation, a distribution of clusters of varying sizes emerged, 
 For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9 (<a href="#anchor-F4">Fig. 4</a>, <a href="#anchor-S1">Fig. S1</a>, <a href="#anchor-S2">Fig. S2</a>) with a median between 0.7 to 0.8. This suggests significant structure variability from a spherical configuration in the initial phase of droplet formation. In the case of larger-sized clusters, the median sphericity ranges from 0.8 to 1 across different systems, reflecting their stability in a spherical shape. These observations corroborate and expand upon the research by <a href="https://doi.org/10.1021/jp972278s" target="_blank">Tarek et al. (1997)</a>, which reported increased shape variability in smaller water/ethanol clusters. Although water/nonane clusters are spherical on average, it exhibits a similar microarrangement to the clusters simulated by <a href="https://doi.org/10.1021/jp509919u" target="_blank">Obeidat et al. (2015)</a>, where they define a water/nonane droplet to have a lens-on-sphere structure. This model describes the nonane cluster as a lens shape that wets the spherical shape of the water cluster.
 </p>
 
-> 💡 **Is there a trend between cluster size and shape?**
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Is there a trend between cluster size and shape?**
 > * Yes, clusters become more spherical with increasing cluster size 
 > * This trend is observed for all the pairs investigated.
 
@@ -180,7 +180,7 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 Among systems with minimal or partial miscibility gap (nonane/butanol and water/butanol), nearly equal amounts of each nucleating vapor were observed (median X~0.5) as shown in <a href="#anchor-F5">Fig. 5</a> and <a href="#anchor-S3">Fig. S3</a>. Furthermore, a trend was observed in which the spread of mole fraction values decreased with increasing cluster size (as indicated by the decreasing area of the boxplots). In contrast, the water/nonane system exhibited a wide spread of mole fraction values in the small clusters, which is likely caused by the pronounced miscibility gap between the involved molecules (<a href="#anchor-S4">Fig. S4</a>). Interestingly, larger clusters in the water/nonane system displayed mole fraction values close to 0.5. While the observed near-equimolar distribution of nucleating vapors in nonane/butanol and water/butanol clusters is likely due to the low miscibility gap in these systems, the similar behavior in water/nonane may be caused by another interaction, such as the clumping of unary clusters without significant mixing.
 </p>
 
-> 💡 **What are the observations on mole fraction for each pair?**
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **What are the observations on mole fraction for each pair?**
 > * Mole fraction of clusters move closer to 0.5 with increasing cluster size.
 > * For nonane/butanol and water/butanol, this trend is likely because of the low miscibility gap.
 > * For water/nonane and water/butanol, this may be caused by clumping of unary clusters without mixing (need additional analysis, see next sections)
@@ -210,7 +210,7 @@ Radial analysis of the water/1-butanol system reveals alternating regions of hig
 A water/nonane system was previously explored by <a href="https://doi.org/10.1021/jp011460x" target="_blank">Wagner and Strey (2001)</a>. They observed a two-pathway nucleation mechanism, which suggests that both species nucleate independently in a unary manner. This is attributed to the pronounced miscibility gap between the two molecules. It was proposed that, in a system composed of an immiscible pair, it is likely for heterogeneous-like nucleation to occur, whereby the first species to nucleate serves as a substrate for the nucleation of the other. This hypothesis is supported by our observations, with radial analysis showing deep blue and red hue at the heatmap at all time steps (<a href="#anchor-S5">Fig. S5</a>). Visually, a lens-on-sphere structure was observed, consisting of a large central nonane cluster to which are adsorbed several independent water clusters (<a href="#anchor-S6">Fig. S6a-c</a>). The cross-section confirms the radial analysis as no mixing is observed, and each individual structure is either pure nonane or pure water (<a href="#anchor-S6">Fig. S6d-f</a>). 
 </p>
 
-> 💡 **What are the binary ordering of the molecules in each cluster?** 
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **What are the binary ordering of the molecules in each cluster?** 
 > * nonane/1-butanol: homogenous mixing 
 > * water/1-butanol: core-shell ordering 
 > * water/nonane: lens-sphere ordering
@@ -255,7 +255,7 @@ To explore these microstructures, fragments within the largest clusters were ana
 For water/1-butanol, the butanol component displayed strong networking, as evidenced by red-colored bars for the largest cluster over time (<a href="#anchor-F10">Fig. 10</a>). In contrast, significant fragmentation was observed in the water component, reflected by a wide range of colors from blue to light red (<a href="#anchor-F11">Fig. 11</a>). A 3D representation of the water/1-butanol system, shown in <a href="#anchor-F12">Fig. 12</a>, visually highlights this fragmentation. Conversely, systems with smaller miscibility gaps, such as nonane/1-butanol, exhibited minimal fragmentation. The 1-butanol component showed only a small degree of fragmentation, as demonstrated in supplementary figures (<a href="#anchor-S7">Fig. S7</a> and <a href="#anchor-S8">Fig. S8</a>). These findings suggest that fragmentation is less pronounced in systems with better miscibility, reinforcing the relationship between miscibility gaps and cluster microstructure.
 </p>
 
-> 💡 **What are the unary ordering of the molecules in each cluster?** 
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **What are the unary ordering of the molecules in each cluster?** 
 > * water/1-butanol
 >     - water: high fragmentation
 >     - 1-butanol: no fragmentation 
