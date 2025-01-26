@@ -1,6 +1,6 @@
 <img width="1440" alt="Untitled (1920 x 800 px)" src="https://github.com/user-attachments/assets/40291de3-c3a1-4b13-ba4f-2756237c49a4" />
 
-# Investigated the Binary Nucleation and Growth of Atmospherically-relevant Molecules
+# Investigating the Binary Nucleation and Growth of Atmospherically-relevant Molecules
 
 > Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
 > <br>
