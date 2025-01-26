@@ -1,4 +1,4 @@
-# Investigated the binary nucleation and growth of atmospherically-relevant molecules
+# Investigated the Binary Nucleation and Growth of Atmospherically-relevant Molecules
 
 The following repository contains some of the jupyter lab python scripts I used in the simulation of atmospherically-relevant molecules. 
 > Each section includes brief, symbol-marked sentences (ℹ️ for information , 🔎 for procedural summaries, and 💡 for analysis summaries) to help guide readers in understanding the problem variables and the questions being addressed.
