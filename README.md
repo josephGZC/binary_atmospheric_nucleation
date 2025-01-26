@@ -164,11 +164,10 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 > * This trend is observed for all the pairs investigated.
 
 <a name="anchor-F4"></a>
-<p align="center" width="100%">
-    <img width="90%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 4</strong>. Time evolution of cluster size and sphericity distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185" width="90%" alt="Fig 4" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 4</strong>.Time evolution of cluster size and sphericity distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup></span>
 </p>
         
 <p align="justify"> 
@@ -179,13 +178,12 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
 > * Mole fraction of clusters move closer to 0.5 with increasing cluster size.
 > * For nonane/butanol and water/butanol, this trend is likely because of the low miscibility gap.
 > * For water/nonane and water/butanol, this may be caused by clumping of unary clusters without mixing (need additional analysis, see next sections)
- 
+
 <a name="anchor-F5"></a>
-<p align="center" width="100%">
-    <img width="90%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 5</strong>. Time evolution of cluster size and mole fraction distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5" width="90%" alt="Fig 5" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 5</strong>. Time evolution of cluster size and mole fraction distribution in nonane/butanol. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
 ### B. Binary Ordering of Molecules in Clusters
@@ -212,11 +210,10 @@ A water/nonane system was previously explored by <a href="https://doi.org/10.102
 > * water/nonane: lens-sphere ordering
 
 <a name="anchor-F6"></a>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 6</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in nonane/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66d8d02b-cf98-4672-bfad-1b924fd630f2" width="80%" alt="Fig 6" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 6</strong>. Heatmap showing mole fraction (X<sub>nonane</sub>) across radial layers of the largest cluster over time in nonane/butanol, with lower-value radial layers near the core and higher-value layers near the surface.
 </p>
 
 <a name="anchor-F7"></a>
