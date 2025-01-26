@@ -2,11 +2,10 @@
 
 # Investigated the Binary Nucleation and Growth of Atmospherically-relevant Molecules
 
-Each section includes brief, symbol-marked sentences 
+Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed.
 * ℹ️ for information 
 * 🔎 for procedural summaries
 * 💡 for analysis summaries
-to help guide readers in understanding the problem variables and the questions being addressed.
 
 ### Contents
 
