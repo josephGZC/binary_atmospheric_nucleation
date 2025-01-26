@@ -128,7 +128,7 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
   <span style="font-size: 80%;"><strong>Figure 2</strong>. Three binary mixtures: nonane/1-butanol, water/nonane, and water/1-butanol.</span>
 </p>
 
-> 🔎 **Pairs investigated** 
+> <img src="https://github.com/user-attachments/assets/104f5bba-400c-45a1-a1b1-19e9a223078a" width="15" height="15"> &nbsp; **Pairs investigated** 
 > * nonane/1-butanol 
 >     * hydrophobic/ampiphilic 
 >     * minimal miscibility gap, corresponds to excellent mixing 
