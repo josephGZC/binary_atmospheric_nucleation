@@ -254,7 +254,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 ## Appendix
 [[back to contents](#contents)]
 
-<h2 id="anchor-S1"></h2>
+<a name="anchor-S1"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
 </p>
@@ -262,7 +262,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S1</strong>. Time evolution of cluster size and sphericity distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<h2 id="anchor-S2"></h2>
+<a name="anchor-S2"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033">
 </p>
@@ -270,7 +270,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S2</strong>. Time evolution of cluster size and sphericity distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<h2 id="anchor-S3"></h2>
+<a name="anchor-S3"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1">
 </p>
@@ -278,7 +278,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<h2 id="anchor-S4"></h2>
+<a name="anchor-S4"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
 </p>
