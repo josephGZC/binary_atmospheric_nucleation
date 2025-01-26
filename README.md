@@ -4,9 +4,9 @@
 
 > Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
 > <br>
-> <img src="https://github.com/user-attachments/assets/bd5aaf6f-33d9-40dc-950a-bfb2636730f3" width="24" height="24"> for information <br>
-> <img src="https://github.com/user-attachments/assets/f5370fa7-b470-4644-b727-017a43f2857b" width="24" height="24"> for procedural summaries <br>
-> <img src="https://github.com/user-attachments/assets/c47afe5d-3ead-447d-9e61-59e4c0bea27c" width="24" height="24"> for analysis summaries
+> <img src="https://github.com/user-attachments/assets/bd5aaf6f-33d9-40dc-950a-bfb2636730f3" width="16" height="16"> for information <br>
+> <img src="https://github.com/user-attachments/assets/f5370fa7-b470-4644-b727-017a43f2857b" width="16" height="16"> for procedural summaries <br>
+> <img src="https://github.com/user-attachments/assets/c47afe5d-3ead-447d-9e61-59e4c0bea27c" width="16" height="16"> for analysis summaries
 
 > ℹ️ for information <br>
 > 🔎 for procedural summaries <br>
@@ -14,7 +14,7 @@
 
 ### Contents
 
- <img src="https://github.com/user-attachments/assets/7f758a29-98c6-4537-a139-f9adf1d24a68" width="24" height="24"> **Sections**
+ <img src="https://github.com/user-attachments/assets/7f758a29-98c6-4537-a139-f9adf1d24a68" width="16" height="16"> **Sections**
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Simulation Setup](#simulation-setup)
