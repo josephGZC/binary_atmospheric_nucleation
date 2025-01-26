@@ -107,7 +107,9 @@ Each system begins as a binary mixture in the vapor state. As the temperature in
 
 <p align="justify"> 
 Throughout the simulation, a distribution of clusters of varying sizes emerged, in which larger clusters comprise higher number of molecules. The generated clusters were analyzed based on their sphericity ([Fig. 4](#anchor-F4), [Fig. S1](#anchor-S1), [Fig. S2](#anchor-S2)) and mole fraction ([Fig. 5](#anchor-F5), [Fig. S3](#anchor-S3), [Fig. S4](#anchor-S4)). For each property, the median values and their variability (spread) are visualized using boxplots. To facilitate a more convenient comparison, the clusters are categorized into three size ranges: small (10<sup>1</sup> to 10<sup>2</sup> molecules), intermediate (10<sup>2</sup> to 10<sup>3</sup> molecules), and large (10<sup>3</sup> to 10<sup>4</sup> molecules). 
+</p>
 
+<p align="justify"> 
 For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9 ([Fig. 4](#anchor-F4), [Fig. S1](#anchor-S1), [Fig. S2](#anchor-S2)) with a median between 0.7 to 0.8. This suggests significant structure variability from a spherical configuration in the initial phase of droplet formation. In the case of larger-sized clusters, the median sphericity ranges from 0.8 to 1 across different systems, reflecting their stability in a spherical shape. These observations corroborate and expand upon the research by [Tarek et al. (1997)](https://doi.org/10.1021/jp972278s), which reported increased shape variability in smaller water/ethanol clusters. Although water/nonane clusters are spherical on average, it exhibits a similar microarrangement to the clusters simulated by [Obeidat et al. (2015)](https://doi.org/10.1021/jp509919u), where they define a water/nonane droplet to have a lens-on-sphere structure. This model describes the nonane cluster as a lens shape that wets the spherical shape of the water cluster.
 </p>
 
@@ -144,11 +146,17 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
 
 <p align="justify"> 
 To get a better understanding of the cluster shape and composition, a look into the internal ordering within the cluster is necessary. Radial layers are reported for the largest cluster over time, which were accompanied by cluster snapshots ([Fig. 6](#anchor-F6)). The lower-value radial layers signify regions closer to the core while the larger-value radial layers are closer to the cluster surface. Snapshots illustrating the radial layers were captured at 1 ns, 10 ns, and 100 ns to provide a visual representation.
-
+</p>
+    
+<p align="justify"> 
 For the nonane/1-butanol system, majority of clusters were well mixed as most radial layers had mole fraction values close to 0.5, indicated by the grayish color in [Fig. 6](#anchor-F6). This is in agreement with the visual inspection of the nuclei snapshots, where nonane (green spheres) and 1-butanol (yellow spheres) are evenly distributed in the cluster surface ([Fig. 7a-c](#anchor-F7)) and the interior of the cluster ([Fig. 7d-f](#anchor-F7)), indicating homogeneous mixing between the two nucleating species. Additionally, the observed mixing behavior further verifies that the reluctant co-nucleation reported for nonane and alcohol mixtures is minimized in nonane/1-butanol by the relatively long alkyl tail of 1-butanol. 
-
+</p>
+    
+<p align="justify"> 
 Radial analysis of the water/1-butanol system reveals alternating regions of high water and 1-butanol concentration, indicated by the alternating bluish and reddish regions in the heatmap ([Fig. 8](#anchor-F8)). The cluster snapshots clarify this observation as it shows that a simple core-shell structure is observed at the initial stages of nucleation, with water (blue spheres) at the core and 1-butanol (yellow spheres) at the surface ([Fig. 9](#anchor-F9)). Over time, another layer of butanol and water is configured, resulting in butanol-water-butanol-water layering. At the later stages, another layer of water-butanol is formed again ([Fig. 9](#anchor-F9)). 
+</p>
 
+<p align="justify"> 
 A water/nonane system was previously explored by [Wagner and Strey (2001)](https://doi.org/10.1021/jp011460x). They observed a two-pathway nucleation mechanism, which suggests that both species nucleate independently in a unary manner. This is attributed to the pronounced miscibility gap between the two molecules. It was proposed that, in a system composed of an immiscible pair, it is likely for heterogeneous-like nucleation to occur, whereby the first species to nucleate serves as a substrate for the nucleation of the other. This hypothesis is supported by our observations, with radial analysis showing deep blue and red hue at the heatmap at all time steps ([Fig. S5](#anchor-S5)). Visually, a lens-on-sphere structure was observed, consisting of a large central nonane cluster to which are adsorbed several independent water clusters ([Fig. S6a-c](#anchor-S6)). The cross-section confirms the radial analysis as no mixing is observed, and each individual structure is either pure nonane or pure water ([Fig. S6d-f](#anchor-S6)). 
 </p>
 
