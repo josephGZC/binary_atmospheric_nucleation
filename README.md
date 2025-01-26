@@ -294,6 +294,13 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 [[back to contents](#contents)]
 
 <a name="anchor-S1"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400" width="90%" alt="Fig S1" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure S1</strong>. Time evolution of cluster size and sphericity distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.</span>
+</p>
+
+<a name="anchor-S1"></a>
 <p align="center" width="100%">
     <img width="90%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
 </p>
@@ -357,6 +364,62 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S8</strong>. Fragmentation of butanol within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).
 </p>
 
+asdasd
+<a name="anchor-S1"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400" width="90%" alt="Fig S1" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure S1</strong>. Time evolution of cluster size and sphericity distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.</span>
+</p>
+
+<a name="anchor-S2"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033" width="90%" alt="Fig S2" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure S2</strong>. Time evolution of cluster size and sphericity distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.</span>
+</p>
+
+<a name="anchor-S3"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1" width="90%" alt="Fig S3" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.</span>
+</p>
+
+<a name="anchor-S4"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6" width="90%" alt="Fig S4" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure S4</strong>. Time evolution of cluster size and mole fraction distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.</span>
+</p>
+
+<a name="anchor-S5"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcc138ad-3b46-411a-a280-11c895e016a9" width="80%" alt="Fig S5" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure S5</strong>. Heatmap showing mole fraction (X<sub>water</sub>) across radial layers of the largest cluster over time in water/nonane, with lower-value radial layers near the core and higher-value layers near the surface.</span>
+</p>
+
+<a name="anchor-S6"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3ac3960-cdf2-4cee-8b40-4d87847fb304" width="80%" alt="Fig S6" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure S6</strong>. Snapshot of whole water/nonane clusters at simulation time (a) 1 ns, (b) 10 ns, and (c) 100 ns, and their cross-section at (d) 1 ns, (e) 10 ns, and (f) 100 ns. The blue and green spheres represent water and nonane molecules, respectively.</span>
+</p>
+
+<a name="anchor-S7"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9495b02b-0c17-471e-8396-43bdd4e031e7" width="80%" alt="Fig S7" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure S7</strong>. Fragmentation of nonane within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).</span>
+</p>
+
+<a name="anchor-S8"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392" width="80%" alt="Fig S8" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure S8</strong>. Fragmentation of butanol within nonane/butanol clusters over time. Molecules are fragmented when clustering criteria are met. Higher fragmentation indicates fewer unary components forming a network. The gray line shows the total number of molecules in the largest cluster, while stacked bars represent fragment sizes. Bar colors range from red (less fragmentation; more networked unary components) to blue (more fragmentation; fewer networked unary components).</span>
+</p>
 
 
 
