@@ -89,13 +89,6 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 </p>
 
 <a name="anchor-F1"></a>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 1</strong>. Structure of (a) water, (b) nonane, and (c) 1-butanol, shown using stick models (top) and sphere models (bottom). Carbon (C), oxygen (O), and hydrogen (H) atoms are labeled. Some hydrogen atoms are grayed out to emphasize the carbon atoms, which are more relevant to the discussion of hydrophobic properties.
-</p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d18c39d2-e33e-4df8-ac6c-583c7d9aa95e" width="70%" alt="Fig 1" style="margin-bottom: 0px;">
   <br>
@@ -124,11 +117,12 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 </p>
 
 <a name="anchor-F2"></a>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47" width="80%" alt="Fig 2" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 70%;"><strong>Figure 2</strong>. Three binary mixtures: nonane/1-butanol, water/nonane, and water/1-butanol.</span>
 </p>
-<p align="center" style="font-size: 70%;">
-    <strong>Figure 2</strong>. Three binary mixtures: nonane/1-butanol, water/nonane, and water/1-butanol.
+
 </p>
 
 > 🔎 **Pairs investigated** 
