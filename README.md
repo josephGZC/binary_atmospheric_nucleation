@@ -2,6 +2,8 @@
 
 # Investigated the Binary Nucleation and Growth of Atmospherically-relevant Molecules
 
+<img src="https://github.com/user-attachments/assets/4ce41b53-cd6c-47a1-b931-7edd531af581" width="24" height="24" alt="Bag Shopping Icon">
+
 > Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
 > <br>
 > ℹ️ for information <br>
