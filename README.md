@@ -2,19 +2,19 @@
 
 # Investigated the Binary Nucleation and Growth of Atmospherically-relevant Molecules
 
-<img src="https://github.com/user-attachments/assets/4ce41b53-cd6c-47a1-b931-7edd531af581" width="24" height="24" alt="Bag Shopping Icon">
-
 > Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
 > <br>
+> <img src="https://github.com/user-attachments/assets/bd5aaf6f-33d9-40dc-950a-bfb2636730f3" width="24" height="24"> for information <br>
+> <img src="https://github.com/user-attachments/assets/f5370fa7-b470-4644-b727-017a43f2857b"> for procedural summaries <br>
+> <img src="https://github.com/user-attachments/assets/c47afe5d-3ead-447d-9e61-59e4c0bea27c"> for analysis summaries
+
 > ℹ️ for information <br>
 > 🔎 for procedural summaries <br>
 > 💡 for analysis summaries
 
-<i class="fi fi-rr-shopping-cart"></i>
-
 ### Contents
 
-🔖 **Sections**
+ <img src="https://github.com/user-attachments/assets/7f758a29-98c6-4537-a139-f9adf1d24a68"> **Sections**
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Simulation Setup](#simulation-setup)
