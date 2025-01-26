@@ -63,15 +63,11 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 ## Simulation Setup
 [[back to contents](#contents)]
 
-
-Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-butanol ([Fig. 2](#anchor-F2)). A cubic simulation box of 40 nm<sup>3</sup> was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
-
 <p align="justify"> 
 Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-butanol (<a href="#anchor-F2">Fig. 2</a>). A cubic simulation box of 40 nm<sup>3</sup> was constructed for each system. The chosen population size for each system was 10,000 molecules, comprising equal amounts of the contained molecule types. The initial structures were copied and randomly inserted several times in the system until the desired total number of molecules was achieved.
 </p>
 
 <h2 id="anchor-F2">Figure 2</h2>
-<a name="anchor-F2"></a>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47">
 </p>
@@ -94,10 +90,10 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 [[back to contents](#contents)]
 
 <p align="justify"> 
-Each system begins as a binary mixture in the vapor state. As the temperature increases during the simulation, molecules start clustering together, coresponding to the onset of condensation ([Fig. 3](#anchor-F3)). Over time, nearly all molecules eventually combine to form larger clusters. A partial video of the simulation is showed in [Fig. S9](#anchor-S9).
+Each system begins as a binary mixture in the vapor state. As the temperature increases during the simulation, molecules start clustering together, coresponding to the onset of condensation (<a href="#anchor-F3">Fig. 3</a>). Over time, nearly all molecules eventually combine to form larger clusters. A partial video of the simulation is showed in <a href="#anchor-F9">Fig. 9</a>.
 </p>
 
-<a name="anchor-F3"></a>
+<h2 id="anchor-F3">Figure 3</h2>
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/user-attachments/assets/0f1c4e59-c1fb-4fe9-b054-24d8ed3c54ac">
 </p>
@@ -110,7 +106,7 @@ Each system begins as a binary mixture in the vapor state. As the temperature in
 ### A. Shape and Compisition of Clusters
 
 <p align="justify"> 
-Throughout the simulation, a distribution of clusters of varying sizes emerged, in which larger clusters comprise higher number of molecules. The generated clusters were analyzed based on their sphericity ([Fig. 4](#anchor-F4), [Fig. S1](#anchor-S1), [Fig. S2](#anchor-S2)) and mole fraction ([Fig. 5](#anchor-F5), [Fig. S3](#anchor-S3), [Fig. S4](#anchor-S4)). For each property, the median values and their variability (spread) are visualized using boxplots. To facilitate a more convenient comparison, the clusters are categorized into three size ranges: small (10<sup>1</sup> to 10<sup>2</sup> molecules), intermediate (10<sup>2</sup> to 10<sup>3</sup> molecules), and large (10<sup>3</sup> to 10<sup>4</sup> molecules). 
+Throughout the simulation, a distribution of clusters of varying sizes emerged, in which larger clusters comprise higher number of molecules. The generated clusters were analyzed based on their sphericity (<a href="#anchor-F4">Fig. 4</a>, <a href="#anchor-S1">Fig. S1</a>, <a href="#anchor-S2">Fig. S2</a>) and mole fraction (<a href="#anchor-F5">Fig. 5</a>, <a href="#anchor-S3">Fig. S3</a>, <a href="#anchor-S4">Fig. S4</a>). For each property, the median values and their variability (spread) are visualized using boxplots. To facilitate a more convenient comparison, the clusters are categorized into three size ranges: small (10<sup>1</sup> to 10<sup>2</sup> molecules), intermediate (10<sup>2</sup> to 10<sup>3</sup> molecules), and large (10<sup>3</sup> to 10<sup>4</sup> molecules). 
 </p>
 
 <p align="justify"> 
@@ -121,7 +117,7 @@ For all systems, the sphericity of smaller-sized clusters ranges from 0.2 to 0.9
 > * Yes, clusters become more spherical with increasing cluster size 
 > * This trend is observed for all the pairs investigated.
 
-<a name="anchor-F4"></a>
+<h2 id="anchor-F4">Figure 4</h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185">
 </p>
@@ -138,7 +134,7 @@ Among systems with minimal or partial miscibility gap (nonane/butanol and water/
 > * For nonane/butanol and water/butanol, this trend is likely because of the low miscibility gap.
 > * For water/nonane and water/butanol, this may be caused by clumping of unary clusters without mixing (need additional analysis, see next sections)
  
-<a name="anchor-F5"></a>
+<h2 id="anchor-F5">Figure 5</h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/b93a686f-0b3d-42dd-bd60-d59633b3d0a5">
 </p>
@@ -255,7 +251,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
 ## Appendix
 [[back to contents](#contents)]
 
-<a name="anchor-S1"></a>
+<h2 id="anchor-S1">Figure S1</h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/99d862a3-4ea6-4b64-b521-6a36e4450400">
 </p>
@@ -263,7 +259,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S1</strong>. Time evolution of cluster size and sphericity distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<a name="anchor-S2"></a>
+<h2 id="anchor-S2">Figure S2</h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/6c22e4bf-2d9e-4a1e-bb63-2f032f79d033">
 </p>
@@ -271,7 +267,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S2</strong>. Time evolution of cluster size and sphericity distribution in <i>wb</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display sphericity distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<a name="anchor-S3"></a>
+<h2 id="anchor-S3">Figure S3</h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/7b252d63-c630-47ea-95df-628d015b1df1">
 </p>
@@ -279,7 +275,7 @@ From these findings, we observe that (a) highly miscible pairs form homogeneousl
     <strong>Figure S3</strong>. Time evolution of cluster size and mole fraction distribution in <i>wn</i>. Left: average cluster size vs. time, with error bars as standard deviation and colors indicating sphericity (Φ). The inset shows smaller clusters early in the simulation. Right: boxplots display mole fraction distributions for clusters of sizes 10<sup>1</sup> < n ≤ 10<sup>2</sup>, 10<sup>2</sup> < n ≤ 10<sup>3</sup>, and 10<sup>3</sup> < n ≤ 10<sup>4</sup>.
 </p>
 
-<a name="anchor-S4"></a>
+<h2 id="anchor-S4">Figure S4</h2>
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/7e6398ad-7a6b-4fe0-bffa-8669b9b2caf6">
 </p>
