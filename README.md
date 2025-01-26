@@ -100,14 +100,6 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
 >     * If Φ = 1.0: perfect sphere
 >     * If Φ = 0.0: perfect cylinder
 
-> ℹ️ **Sphericity**  
-> * Often represented by symbol Φ  
->   <ul style="list-style-type: circle; margin: 0; padding-left: 20px;">
->     <li>If Φ = 1.0: perfect sphere</li>
->     <li>If Φ = 0.0: perfect cylinder</li>
->   </ul>
-
-
 > ℹ️ **Mole Fraction**
 > * Often represented by symbol X
 >     * In a mixture, if X<sub>water</sub> = 1.0: only water is present
