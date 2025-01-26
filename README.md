@@ -4,13 +4,13 @@
 
 > Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
 > <br>
-> <img src="https://github.com/user-attachments/assets/80d403da-1a74-4900-8abc-770bc8970b55" width="14" height="14"> &nbsp; for information <br>
-> <img src="https://github.com/user-attachments/assets/150ca1f6-3723-4ddf-a705-3b93c920ccf4" width="14" height="14"> &nbsp; for procedural summaries <br>
-> <img src="https://github.com/user-attachments/assets/c3365592-6582-47d5-821a-c9868f9e79c1" width="14" height="14"> &nbsp; for analysis summaries
+> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="14" height="14"> &nbsp; for information <br>
+> <img src="https://github.com/user-attachments/assets/104f5bba-400c-45a1-a1b1-19e9a223078a" width="14" height="14"> &nbsp; for procedural summaries <br>
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="14" height="14"> &nbsp; for analysis summaries
 
 ### Contents
 
- <img src="https://github.com/user-attachments/assets/da161aaa-2b82-4cf3-9b5b-f873395f1671" width="14" height="14"> &nbsp; **Sections**
+ <img src="https://github.com/user-attachments/assets/0bb79cc2-8c42-4829-b936-d93c6da8a132" width="14" height="14"> &nbsp; **Sections**
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Simulation Setup](#simulation-setup)
@@ -18,7 +18,7 @@
 - [Conclusion](#conclusion)
 - [Appendix](#appendix)
 
- <img src="https://github.com/user-attachments/assets/8b2e23b5-e7cd-493b-958a-7f747a91c16e" width="14" height="14"> &nbsp; **Python Scripts**
+ <img src="https://github.com/user-attachments/assets/2b105adf-f364-4152-8292-f7d1ae77f75c" width="14" height="14"> &nbsp; **Python Scripts**
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/0_data_fort-to-panda.ipynb" target="_blank">Generate Clusters Dataset</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/1_plot_spatial-heatmap.ipynb" target="_blank">Plot Spatial Heatmap</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/2_data_mole-fraction.ipynb" target="_blank">Generate Mole Fraction Dataset</a>
@@ -27,7 +27,7 @@
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/5_data_fragmentation.ipynb" target="_blank">Generate Fragmentation Dataset</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/6_plot_fragmentation.ipynb" target="_blank">Plot Fragmentation</a>
 
-📊 **Graph Preview**
+ <img src="https://github.com/user-attachments/assets/126c7386-894b-4890-af87-775472fd30f7" width="14" height="14"> &nbsp; **Graph Preview**
 
 Here’s an early preview of the selected images:
 
