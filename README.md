@@ -208,12 +208,12 @@ For water/1-butanol, the butanol component displayed strong networking, as evide
 </p>
 
 > 💡 **What are the unary arrangements/ordering of the molecules in each cluster?** 
-> * water/1-butanol </br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; water: high fragmentation </br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1-butanol: no fragmentation </br>
-> * nonane/1-butanol </br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nonane: no fragmentation </br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1-butanol: low fragmentation
+> * water/1-butanol
+>     - water: high fragmentation
+>     - 1-butanol: no fragmentation 
+> * nonane/1-butanol 
+>     - nonane: no fragmentation 
+>     - 1-butanol: low fragmentation
 
 <h2 id="anchor-F10"></h2>
 <p align="center" width="100%">
