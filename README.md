@@ -161,7 +161,7 @@ Radial analysis of the water/1-butanol system reveals alternating regions of hig
 A water/nonane system was previously explored by <a href="https://doi.org/10.1021/jp011460x" target="_blank">Wagner and Strey (2001)</a>. They observed a two-pathway nucleation mechanism, which suggests that both species nucleate independently in a unary manner. This is attributed to the pronounced miscibility gap between the two molecules. It was proposed that, in a system composed of an immiscible pair, it is likely for heterogeneous-like nucleation to occur, whereby the first species to nucleate serves as a substrate for the nucleation of the other. This hypothesis is supported by our observations, with radial analysis showing deep blue and red hue at the heatmap at all time steps (<a href="#anchor-S5">Fig. S5</a>). Visually, a lens-on-sphere structure was observed, consisting of a large central nonane cluster to which are adsorbed several independent water clusters (<a href="#anchor-S6">Fig. S6a-c</a>). The cross-section confirms the radial analysis as no mixing is observed, and each individual structure is either pure nonane or pure water (<a href="#anchor-S6">Fig. S6d-f</a>). 
 </p>
 
-> 💡**What are the binary arrangements/ordering of the molecules in each cluster?** 
+> 💡**What are the binary ordering of the molecules in each cluster?** 
 > * nonane/1-butanol: homogenous mixing 
 > * water/1-butanol: core-shell ordering 
 > * water/nonane: lens-sphere ordering
@@ -210,7 +210,7 @@ To explore these microstructures, fragments within the largest clusters were ana
 For water/1-butanol, the butanol component displayed strong networking, as evidenced by red-colored bars for the largest cluster over time (<a href="#anchor-F10">Fig. 10</a>). In contrast, significant fragmentation was observed in the water component, reflected by a wide range of colors from blue to light red (<a href="#anchor-F11">Fig. 11</a>). A 3D representation of the water/1-butanol system, shown in <a href="#anchor-F12">Fig. 12</a>, visually highlights this fragmentation. Conversely, systems with smaller miscibility gaps, such as nonane/1-butanol, exhibited minimal fragmentation. The 1-butanol component showed only a small degree of fragmentation, as demonstrated in supplementary figures (<a href="#anchor-S7">Fig. S7</a> and <a href="#anchor-S8">Fig. S8</a>). These findings suggest that fragmentation is less pronounced in systems with better miscibility, reinforcing the relationship between miscibility gaps and cluster microstructure.
 </p>
 
-> 💡 **What are the unary arrangements/ordering of the molecules in each cluster?** 
+> 💡 **What are the unary ordering of the molecules in each cluster?** 
 > * water/1-butanol
 >     - water: high fragmentation
 >     - 1-butanol: no fragmentation 
