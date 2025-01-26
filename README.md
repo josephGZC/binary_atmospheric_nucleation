@@ -95,7 +95,6 @@ This study investigates nucleation and growth of three binary mixtures of atmosp
   <span style="font-size: 80%;"><strong>Figure 1</strong>. Structure of (a) water, (b) nonane, and (c) 1-butanol, shown using stick models (top) and sphere models (bottom). Carbon (C), oxygen (O), and hydrogen (H) atoms are labeled. Some hydrogen atoms are grayed out to emphasize the carbon atoms, which are more relevant to the discussion of hydrophobic properties.</span>
 </p>
 
-
 > ℹ️ **Sphericity**
 > * Often represented by symbol Φ
 >     * If Φ = 1.0: perfect sphere
@@ -118,11 +117,9 @@ Three binary mixtures were analyzed: nonane/1-butanol, water/nonane, water/1-but
 
 <a name="anchor-F2"></a>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47" width="80%" alt="Fig 2" style="margin-bottom: 0px;">
+  <img src="https://github.com/user-attachments/assets/6a3b208d-ce75-4d64-bcc0-83914edabc47" width="90%" alt="Fig 2" style="margin-bottom: 0px;">
   <br>
-  <span style="font-size: 70%;"><strong>Figure 2</strong>. Three binary mixtures: nonane/1-butanol, water/nonane, and water/1-butanol.</span>
-</p>
-
+  <span style="font-size: 80%;"><strong>Figure 2</strong>. Three binary mixtures: nonane/1-butanol, water/nonane, and water/1-butanol.</span>
 </p>
 
 > 🔎 **Pairs investigated** 
@@ -144,11 +141,10 @@ Each system begins as a binary mixture in the vapor state. As the temperature in
 </p>
 
 <a name="anchor-F3"></a>
-<p align="center" width="100%">
-    <img width="100%" src="https://github.com/user-attachments/assets/0f1c4e59-c1fb-4fe9-b054-24d8ed3c54ac">
-</p>
-<p align="center" style="font-size: 80%;">
-    <strong>Figure 3</strong>. Snapshots of nonane/butanol system at (a) 0, (b) 10, and (c) 100 ns.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f1c4e59-c1fb-4fe9-b054-24d8ed3c54ac" width="100%" alt="Fig 3" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 3</strong>. Snapshots of nonane/butanol system at (a) 0, (b) 10, and (c) 100 ns.</span>
 </p>
 
 > ℹ️ We can also consider the nucleation and growth process we are investigating as the first steps of condensation (phase change from vapor state to liquid state). 
