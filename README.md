@@ -209,7 +209,7 @@ Radial analysis of the water/1-butanol system reveals alternating regions of hig
 A water/nonane system was previously explored by <a href="https://doi.org/10.1021/jp011460x" target="_blank">Wagner and Strey (2001)</a>. They observed a two-pathway nucleation mechanism, which suggests that both species nucleate independently in a unary manner. This is attributed to the pronounced miscibility gap between the two molecules. It was proposed that, in a system composed of an immiscible pair, it is likely for heterogeneous-like nucleation to occur, whereby the first species to nucleate serves as a substrate for the nucleation of the other. This hypothesis is supported by our observations, with radial analysis showing deep blue and red hue at the heatmap at all time steps (<a href="#anchor-S5">Fig. S5</a>). Visually, a lens-on-sphere structure was observed, consisting of a large central nonane cluster to which are adsorbed several independent water clusters (<a href="#anchor-S6">Fig. S6a-c</a>). The cross-section confirms the radial analysis as no mixing is observed, and each individual structure is either pure nonane or pure water (<a href="#anchor-S6">Fig. S6d-f</a>). 
 </p>
 
-> 💡**What are the binary ordering of the molecules in each cluster?** 
+> 💡 **What are the binary ordering of the molecules in each cluster?** 
 > * nonane/1-butanol: homogenous mixing 
 > * water/1-butanol: core-shell ordering 
 > * water/nonane: lens-sphere ordering
