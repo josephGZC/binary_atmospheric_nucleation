@@ -2,11 +2,6 @@
 
 # Investigated the Binary Nucleation and Growth of Atmospherically-relevant Molecules
 
-Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed.
-* ℹ️ for information 
-* 🔎 for procedural summaries
-* 💡 for analysis summaries
-
 ### Contents
 
 🔖 **Sections**
@@ -16,6 +11,11 @@ Each section includes brief, symbol-marked sentences to help guide readers in un
 - [Simulation Analysis](#simulation-analysis)
 - [Conclusion](#conclusion)
 - [Appendix](#appendix)
+
+Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed.
+* ℹ️ for information 
+* 🔎 for procedural summaries
+* 💡 for analysis summaries
 
 🐍 **Python Scripts**
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/0_data_fort-to-panda.ipynb" target="_blank">Generate Clusters Dataset</a>
