@@ -22,13 +22,9 @@ The following repository contains some of the jupyter lab python scripts I used 
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/5_data_fragmentation.ipynb" target="_blank">Generate Fragmentation Dataset</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/6_plot_fragmentation.ipynb" target="_blank">Plot Fragmentation</a>
 
-# Image Preview Carousel
+📊 **Graph Preview**
 
-Here’s an early preview of the selected images:
-
-# Image Preview Carousel
-
-Here’s an early preview of the selected images:
+Here’s an early preview of plots generated:
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
   <a href="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185" style="display: inline-block; margin-right: 10px;">
@@ -71,8 +67,6 @@ Here’s an early preview of the selected images:
     <img src="https://github.com/user-attachments/assets/db121cc7-c5aa-4f40-b234-73d6b4714392" width="100" height="100" style="border-radius:50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" alt="Fig S8">
   </a>
 </div>
-
-
 
 ## Overview
 [[back to contents](#contents)]
