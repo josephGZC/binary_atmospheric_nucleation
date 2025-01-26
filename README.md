@@ -24,10 +24,6 @@ The following repository contains some of the jupyter lab python scripts I used 
 
 # Image Preview Carousel
 
-Here’s an early preview of the images you will see in the body of the site:
-
-# Image Preview Carousel
-
 Here’s an early preview of the selected images:
 
 <p align="center">
