@@ -17,15 +17,10 @@ The following repository contains some of the jupyter lab python scripts I used 
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/0_data_fort-to-panda.ipynb" target="_blank">Generate Clusters Dataset</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/1_plot_spatial-heatmap.ipynb" target="_blank">Plot Spatial Heatmap</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/2_data_mole-fraction.ipynb" target="_blank">Generate Mole Fraction Dataset</a>
-
-
-* [Generate Clusters Dataset](ANALYSIS/0_data_fort-to-panda.ipynb)
-* [Plot Spatial Heatmap](ANALYSIS/1_plot_spatial-heatmap.ipynb)
-* [Generate Mole Fraction Dataset](ANALYSIS/2_data_mole-fraction.ipynb)
-* [Plot Cluster Growth](ANALYSIS/3_plot_growth_mole-fraction_sphericity.ipynb)
-* [Plot Radial Layers](ANALYSIS/4_plot_radial-layers.ipynb)
-* [Generate Fragmentation Dataset](ANALYSIS/5_data_fragmentation.ipynb)
-* [Plot Fragmentation](ANALYSIS/6_plot_fragmentation.ipynb)
+- <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/3_plot_growth_mole-fraction_sphericity.ipynb" target="_blank">Plot Cluster Growth</a>
+- <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/4_plot_radial-layers.ipynb" target="_blank">Plot Radial Layers</a>
+- <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/5_data_fragmentation.ipynb" target="_blank">Generate Fragmentation Dataset</a>
+- <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/6_plot_fragmentation.ipynb" target="_blank">Plot Fragmentation</a>
 
 ## Overview
 [[back to contents](#contents)]
