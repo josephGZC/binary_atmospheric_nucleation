@@ -201,9 +201,11 @@ A water/nonane system was previously explored by <a href="https://doi.org/10.102
 
 <p align="justify">
 While water and nonane exhibit clear segregation in water/nonane systems, the presence of microstructures within clusters formed by systems with minimal or partial miscibility gaps (nonane/1-butanol and water/1-butanol) warrants further investigation. Homogeneous mixing was observed in nonane/1-butanol clusters, but questions remain: Is butanol evenly distributed throughout the entire cluster, or are localized structures present? Similarly, for water/1-butanol, is the core-shell structure strictly segregated, or are there instances of localized clumping? Addressing these questions requires identifying unary clusters within the binary clusters.
-
+</p>
+<p align="justify">
 To explore these microstructures, fragments within the largest clusters were analyzed. Higher fragmentation indicated fewer unary components were networked within the cluster, likely due to localized miscibility gaps. Results were visualized using line plots to depict the total unary components and stacked bar plots to illustrate the degree of fragmentation. In these bar plots, reddish bars represent less fragmentation (a more networked structure), while bluish bars indicate more fragmentation (a less networked structure).
-
+</p>
+<p align="justify">
 For water/1-butanol, the butanol component displayed strong networking, as evidenced by red-colored bars for the largest cluster over time (<a href="#anchor-F10">Fig. 10</a>). In contrast, significant fragmentation was observed in the water component, reflected by a wide range of colors from blue to light red (<a href="#anchor-F11">Fig. 11</a>). A 3D representation of the water/1-butanol system, shown in <a href="#anchor-F12">Fig. 12</a>, visually highlights this fragmentation. Conversely, systems with smaller miscibility gaps, such as nonane/1-butanol, exhibited minimal fragmentation. The 1-butanol component showed only a small degree of fragmentation, as demonstrated in supplementary figures (<a href="#anchor-S7">Fig. S7</a> and <a href="#anchor-S8">Fig. S8</a>). These findings suggest that fragmentation is less pronounced in systems with better miscibility, reinforcing the relationship between miscibility gaps and cluster microstructure.
 </p>
 
