@@ -1,6 +1,35 @@
+# Investigating the Binary Nucleation and Growth of Atmospherically-relevant Molecules
+
 <img width="1440" alt="Untitled (1920 x 800 px)" src="https://github.com/user-attachments/assets/40291de3-c3a1-4b13-ba4f-2756237c49a4" />
 
-# Investigating the Binary Nucleation and Growth of Atmospherically-relevant Molecules
+# Summary
+
+### Problem
+A knowledge gap exists in understanding the behavior of gas nucleation and growth, the critical initial steps in aerosol formation.
+
+### Objectives 
+* Describe the geometric shape of binary clusters 
+* Determine the composition of binary clusters
+* Determine the ordering of binary clusters
+ 
+### Methods 
+Simulate the following binary mixtures
+* nonane/1-butanol 
+     * hydrophobic/ampiphilic 
+     * minimal miscibility gap, corresponds to excellent mixing 
+* water/nonane 
+     * hydrophilic/hydrophobic 
+     * pronounced miscibility gap, corresponds to poor mixing 
+* water/1-butanol 
+     * hydrophilic/ampiphilic 
+     * partial miscibility gap, corresponds to intermediate mixing
+
+### Insights and Recommendations
+* All the investigated MOFs removed over 60% of cadmium from water, which demonstrates their strong potential for cadmium remediation.
+* UiO-66-(COOH)<sub>4</sub> achieved an 88% removal rate, making it the most promising candidate for synthesis and further testing.
+* Cadmium primarily adsorbs through electrostatic interactions with the oxygen atoms of MOFs, indicating that incorporating additional oxygen-rich groups can further enhance cadmium capture.
+
+### Output
 
 > Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
 > <br>
