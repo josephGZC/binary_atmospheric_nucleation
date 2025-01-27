@@ -98,7 +98,6 @@ Graph Preview
 ### Contents
 
 <img src="https://github.com/user-attachments/assets/0bb79cc2-8c42-4829-b936-d93c6da8a132" width="15" height="15"> &nbsp; **Sections**
-- [Overview](#overview)
 - [Background](#background)
 - [Simulation Setup](#simulation-setup)
 - [Simulation Analysis](#simulation-analysis)
