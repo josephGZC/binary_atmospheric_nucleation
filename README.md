@@ -24,10 +24,15 @@ Simulate the following binary mixtures,
      * hydrophilic/ampiphilic 
      * partial miscibility gap, corresponds to intermediate mixing
 
-### Insights and Recommendations
-* Smaller clusters have 
-* UiO-66-(COOH)<sub>4</sub> achieved an 88% removal rate, making it the most promising candidate for synthesis and further testing.
-* Cadmium primarily adsorbs through electrostatic interactions with the oxygen atoms of MOFs, indicating that incorporating additional oxygen-rich groups can further enhance cadmium capture.
+### Insights
+* Smaller clusters are non-spherical, which necessitates modifcation of classical equations that assume spherical size of nucleating clusters.
+* More miscible species had less mole fraction variability from an equimolar composition, which requires consideration in accurately modeling phase equilibrium.
+* Highly miscible pairs form homogeneously-mixed clusters, partially miscible pairs can form component-enriched regions as a means to maximize favorable interactions, and completely immiscible pairs exhibit heterogeneous-like nucleation.
+
+### Recommendations
+* Develop new models or adapt classical nucleation theory to account for non-spherical cluster shapes in the early stages of nucleation.
+* Incorporate considerations of miscibility and compositional variability into phase equilibrium models to improve predictions of nucleation behavior.
+* Explore a wider range of molecular systems with varying miscibility and interaction strengths to validate and extend the observed ordering behavior, enabling the development of generalized principles for nucleation and growth.
 
 ### Output
 
