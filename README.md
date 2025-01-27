@@ -99,13 +99,13 @@ Graph Preview
 
 <img src="https://github.com/user-attachments/assets/0bb79cc2-8c42-4829-b936-d93c6da8a132" width="15" height="15"> &nbsp; **Sections**
 - [Overview](#overview)
-- [Objectives](#objectives)
+- [Background](#background)
 - [Simulation Setup](#simulation-setup)
 - [Simulation Analysis](#simulation-analysis)
 - [Conclusion](#conclusion)
 - [Appendix](#appendix)
 
-## Overview
+## Background
 [[back to contents](#contents)]
 
 <p align="justify"> 
