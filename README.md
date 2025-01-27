@@ -8,12 +8,12 @@
 A knowledge gap exists in understanding the behavior of gas nucleation and growth, the critical initial steps in aerosol formation.
 
 ### Objectives 
-* Describe the geometric shape of binary clusters 
-* Determine the composition of binary clusters
-* Determine the ordering of binary clusters
+* Describe the geometric shape of binary clusters. 
+* Determine the composition of binary clusters.
+* Determine the ordering of binary clusters.
  
 ### Methods 
-Simulate the following binary mixtures
+Simulate the following binary mixtures,
 * nonane/1-butanol 
      * hydrophobic/ampiphilic 
      * minimal miscibility gap, corresponds to excellent mixing 
@@ -25,29 +25,13 @@ Simulate the following binary mixtures
      * partial miscibility gap, corresponds to intermediate mixing
 
 ### Insights and Recommendations
-* All the investigated MOFs removed over 60% of cadmium from water, which demonstrates their strong potential for cadmium remediation.
+* Smaller clusters have 
 * UiO-66-(COOH)<sub>4</sub> achieved an 88% removal rate, making it the most promising candidate for synthesis and further testing.
 * Cadmium primarily adsorbs through electrostatic interactions with the oxygen atoms of MOFs, indicating that incorporating additional oxygen-rich groups can further enhance cadmium capture.
 
 ### Output
 
-> Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
-> <br>
-> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; for information <br>
-> <img src="https://github.com/user-attachments/assets/104f5bba-400c-45a1-a1b1-19e9a223078a" width="15" height="15"> &nbsp; for procedural summaries <br>
-> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; for analysis summaries
-
-### Contents
-
-<img src="https://github.com/user-attachments/assets/0bb79cc2-8c42-4829-b936-d93c6da8a132" width="15" height="15"> &nbsp; **Sections**
-- [Overview](#overview)
-- [Objectives](#objectives)
-- [Simulation Setup](#simulation-setup)
-- [Simulation Analysis](#simulation-analysis)
-- [Conclusion](#conclusion)
-- [Appendix](#appendix)
-
-<img src="https://github.com/user-attachments/assets/2b105adf-f364-4152-8292-f7d1ae77f75c" width="15" height="15"> &nbsp; **Python Scripts**
+Python Scripts
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/0_data_fort-to-panda.ipynb" target="_blank">Generate Clusters Dataset</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/1_plot_spatial-heatmap.ipynb" target="_blank">Plot Spatial Heatmap</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/2_data_mole-fraction.ipynb" target="_blank">Generate Mole Fraction Dataset</a>
@@ -56,9 +40,7 @@ Simulate the following binary mixtures
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/5_data_fragmentation.ipynb" target="_blank">Generate Fragmentation Dataset</a>
 - <a href="https://github.com/josephGZC/binary_atmospheric_nucleation/blob/main/ANALYSIS/6_plot_fragmentation.ipynb" target="_blank">Plot Fragmentation</a>
 
- <img src="https://github.com/user-attachments/assets/126c7386-894b-4890-af87-775472fd30f7" width="15" height="15"> &nbsp; **Graph Preview**
-
-Here’s an early preview of the selected images:
+Graph Preview
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; background-color: #f8f9fa; border-radius: 5px;">
   <a href="https://github.com/user-attachments/assets/9b94f513-e1b1-44ff-906b-110922236185" style="display: inline-block; margin-right: 10px;">
@@ -104,6 +86,24 @@ Here’s an early preview of the selected images:
 <p>
   <br>
 </p>
+
+# Technical Report
+
+> Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
+> <br>
+> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; for information <br>
+> <img src="https://github.com/user-attachments/assets/104f5bba-400c-45a1-a1b1-19e9a223078a" width="15" height="15"> &nbsp; for procedural summaries <br>
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; for analysis summaries
+
+### Contents
+
+<img src="https://github.com/user-attachments/assets/0bb79cc2-8c42-4829-b936-d93c6da8a132" width="15" height="15"> &nbsp; **Sections**
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Simulation Setup](#simulation-setup)
+- [Simulation Analysis](#simulation-analysis)
+- [Conclusion](#conclusion)
+- [Appendix](#appendix)
 
 ## Overview
 [[back to contents](#contents)]
